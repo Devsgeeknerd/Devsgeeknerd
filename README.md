@@ -9,5 +9,6 @@
 <!-- BIBLIOTECAS -->
 <!-- FERRAMENTAS -->
 <!-- ESTATÍSTICAS DO GIHUB -->
+<!-- RANK DAS LINGUAGENS -->
 <!-- CONTADOR DE VISITAS -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.Devsgeeknerd "Total de Visitas")
