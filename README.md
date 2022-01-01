@@ -3,3 +3,4 @@
 <!-- CITAÇÕES -->
 <!-- CONTATOS -->
 <!-- CURSOS -->
+<!-- CONTADOR DE VISITAS -->
