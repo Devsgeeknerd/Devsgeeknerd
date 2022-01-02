@@ -22,6 +22,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Infraestrutura Web
 - [ ] Curso de Inglês Para Programadores
 - [ ] Curso de JavaScript Completo
+- [ ] Curso de Lógica de Programação
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
