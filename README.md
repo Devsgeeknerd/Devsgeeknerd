@@ -9,6 +9,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 ## :books: **CURSOS**
 - [ ] Curso de Agência 
 - [ ] Curso de Android Arch
+- [ ] Curso de Android Express
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
