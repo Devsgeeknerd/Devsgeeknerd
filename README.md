@@ -26,6 +26,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Marketing Digital Para 
 - [ ] Curso de Node.js
 - [ ] Curso de PHP Jedi
+- [ ] Curso de Produtividade Para Programadores
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
