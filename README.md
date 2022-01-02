@@ -1,8 +1,9 @@
 <!-- TÍTULO PRINCIPAL -->
 # :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye:
 <!-- DESCRIÇÃO -->
-Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver problemas, eutomatizar coisas e construir _Software_.
+Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver problemas, automatizar coisas e construir _Software_.
 <!-- CITAÇÕES -->
+> :heart: Resolva primeiro o problema e, em seguida, escreva o código.
 <!-- CONTATOS -->
 <!-- CURSOS -->
 <!-- PROJETOS DOS CURSOS -->
