@@ -6,6 +6,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 > :heart: Resolva primeiro o problema e, em seguida, escreva o código.
 <!-- CONTATOS -->
 <!-- CURSOS -->
+## :books: **CURSOS**
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
