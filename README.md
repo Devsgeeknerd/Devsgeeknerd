@@ -27,6 +27,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Node.js
 - [ ] Curso de PHP Jedi
 - [ ] Curso de Produtividade Para Programadores
+- [ ] Curso de Web Design Express
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
