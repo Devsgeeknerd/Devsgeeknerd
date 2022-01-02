@@ -11,6 +11,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Android Arch
 - [ ] Curso de Android 
 - [ ] Curso de Banco de Dados
+- [ ] Curso de Desenvolvimento de Aplicativos
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
