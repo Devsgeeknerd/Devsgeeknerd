@@ -23,7 +23,8 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Inglês Para Programadores
 - [ ] Curso de JavaScript Completo
 - [ ] Curso de Lógica de Programação
-- [ ] Curso de Marketing Digital Para Programadores
+- [ ] Curso de Marketing Digital Para 
+- [ ] Curso de Node.js
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
