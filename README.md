@@ -29,6 +29,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Produtividade Para Programadores
 - [ ] Curso de Web Design Express
 - [ ] Curso de Webmaster Front-end Completo
+- [ ] Curso de WordPress Completo
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
