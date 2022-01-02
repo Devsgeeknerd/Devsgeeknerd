@@ -13,6 +13,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Banco de Dados
 - [ ] Curso de Desenvolvimento de Aplicativos
 - [ ] Curso de Desenvolvimento Web (2.0)
+- [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto
 <!-- PROJETOS DOS CURSOS -->
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 <!-- FRAMEWORKS -->
