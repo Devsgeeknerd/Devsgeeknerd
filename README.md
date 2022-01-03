@@ -14,7 +14,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 - [ ] Curso de Desenvolvimento de Aplicativos
 - [ ] Curso de Desenvolvimento Web (2.0)
 - [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto
-- [ ] Curso de Desenvolvimento Web 
+- [ ] Curso de Desenvolvimento Web Completo
 - [ ] Curso de Design de Aplicativos
 - [ ] Curso de Design Para Web
 - [ ] Curso de Front-end (2.0)
