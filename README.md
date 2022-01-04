@@ -8,8 +8,8 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 <!-- CURSOS -->
 ## :books: **CURSOS**
 - [ ] [Curso de Agência Web](https://github.com/Devsgeeknerd/curso-de-agencia-web "Ir Para o Curso")
-- [ ] [Curso de Android Arch]()
-- [ ] [Curso de Android Express]()
+- [ ] [Curso de Android Arch](https://github.com/Devsgeeknerd/curso-de-android-arch "Ir Para o Curso")
+- [ ] [Curso de Android Express](https://github.com/Devsgeeknerd/curso-de-android-express "Ir Para o Curso")
 - [ ] [Curso de Banco de Dados]()
 - [ ] [Curso de Desenvolvimento de Aplicativos]()
 - [ ] [Curso de Desenvolvimento Web (2.0)]()
