@@ -52,7 +52,11 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- ESTATÍSTICAS DO GIHUB -->
 
-<!-- RANK DAS LINGUAGENS -->
+<!-- NOTA -->
+
+`Note`: Rank does not indicate my skill level or anything like that, it's a Github metric of which programming languages have the most code on GitHub.
+
+<!-- RANK DOS ARQUIVOS -->
 
 <!-- CONTADOR DE VISITAS -->
 
