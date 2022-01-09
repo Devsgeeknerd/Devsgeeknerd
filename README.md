@@ -52,7 +52,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- ESTATÍSTICAS DO GIHUB -->
 
-![Paulo Vanderley GitHub static]
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd)
 
 <!-- NOTA -->
 
