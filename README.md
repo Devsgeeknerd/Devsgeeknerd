@@ -65,7 +65,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 <!-- CONTADOR DE VISITAS -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.Devsgeeknerd "Total de Visitas")
-
+&nbsp;
 <!-- CONTADOR DE DOWNLOADS -->
 
 ![Downloads](https://img.shields.io/github/downloads/Devsgeeknerd/Devsgeeknerd/total?style=social)
