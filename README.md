@@ -68,4 +68,4 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- CONTADOR DE DOWNLOADS -->
 
-https://img.shields.io/github/downloads/Devsgeeknerd/Devsgeeknerd/total?style=social
+![Downloads](https://img.shields.io/github/downloads/Devsgeeknerd/Devsgeeknerd/total?style=social)
