@@ -66,20 +66,14 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.Devsgeeknerd "Total de Visitas")
 &nbsp;
-![languages](https://img.shields.io/github/languages/count/Devsgeeknerd/Devsgeeknerd?style=social "Total de Linguagens")
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
 &nbsp;
-![top languages](https://img.shields.io/github/languages/top/Devsgeeknerd/Devsgeeknerd?style=social "Linguagem Top")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=social "Total de Observadores")
 &nbsp;
-![size](https://img.shields.io/github/directory-file-count/Devsgeeknerd/Devsgeeknerd?style=social "Total de Arquivos no Repositório")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=social "Total de Estrelas Recebidas")
+&nbsp;
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=social "Total de Forks")
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=social "Tamanho do Repositório")
-&bnsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=social "Licença do Repositório")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
-&bnsp:
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=social "Total de Forks")
-&bnsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=social "Total de Estrelas Recebidas")
-&bnsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=social "Total de Observadores")
+![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=social "Licença do Repositório")
