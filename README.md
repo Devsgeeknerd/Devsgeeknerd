@@ -62,8 +62,24 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Classificação)
 
-<!-- CONTADORES -->
+<!-- INFORMAÇÕES -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.Devsgeeknerd "Total de Visitas")
 &nbsp;
-![Downloads](https://img.shields.io/github/downloads/Devsgeeknerd/Devsgeeknerd/total?style=social)
+![languages](https://img.shields.io/github/languages/count/Devsgeeknerd/Devsgeeknerd?style=social "Total de Linguagens")
+&nbsp;
+![top languages](https://img.shields.io/github/languages/top/Devsgeeknerd/Devsgeeknerd?style=social "Linguagem Top")
+&nbsp;
+![size](https://img.shields.io/github/directory-file-count/Devsgeeknerd/Devsgeeknerd?style=social "Total de Arquivos no Repositório")
+&nbsp;
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=social "Tamanho do Repositório")
+&bnsp;
+![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=social "Licença do Repositório")
+&nbsp;
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+&bnsp:
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=social "Total de Forks")
+&bnsp;
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=social "Total de Estrelas Recebidas")
+&bnsp;
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=social "Total de Observadores")
