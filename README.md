@@ -18,23 +18,23 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 - [ ] Curso de Agência Web
 - [ ] Curso de Android Arch
-- [ ] Curso de Android Express 
+- [ ] Curso de Android Express
 - [ ] Curso de Banco de Dados
 - [ ] Curso de Desenvolvimento de Aplicativos
 - [ ] Curso de Desenvolvimento Web (2.0)
 - [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto  
-- [ ] Curso de Desenvolvimento Web Completo 
+- [ ] Curso de Desenvolvimento Web Completo
 - [ ] Curso de Design de Aplicativos
 - [ ] Curso de Design Para Web
 - [ ] Curso de Front-end (2.0)
 - [ ] [Curso de Full Stack](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
 - [ ] Curso de Infraestrutura Web  
-- [ ] Curso de Inglês Para Programadores 
+- [ ] Curso de Inglês Para Programadores
 - [ ] Curso de JavaScript Completo  
 - [ ] Curso de Lógica de Programação
-- [ ] Curso de Marketing Digital Para Programadores   
-- [ ] Curso de Node.js   
-- [ ] Curso de PHP Jedi   
+- [ ] Curso de Marketing Digital Para Programadores
+- [ ] Curso de Node.js
+- [ ] Curso de PHP Jedi
 - [ ] Curso de Produtividade Para Programadores
 - [ ] Curso de Web Design Express
 - [ ] Curso de Webmaster Front-end Completo  
