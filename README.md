@@ -42,6 +42,10 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- PROJETOS DOS CURSOS -->
 
+<!-- PROJETOS DOS TREINAMENTOS -->
+
+<!-- PROJETOS PRÓPRIOS -->
+
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 
 <!-- FRAMEWORKS -->
