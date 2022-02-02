@@ -56,7 +56,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- ESTATÍSTICAS DO GIHUB -->
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=7fff00&bg_color=DEG,8b008b,7a28a3,ff1493&icon_color=000000&text_color=ffffff&include_all-commits=true&boder=15&locale=pt-BR)
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=7fff00&bg_color=DEG,8b008b,7a28a3,ff1493&icon_color=000000&text_color=ffffff&include_all-commits=true&border_radius=15&locale=pt-BR)
 
 <!-- NOTA -->
 
