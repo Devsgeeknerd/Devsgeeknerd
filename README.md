@@ -60,7 +60,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- NOTA -->
 
-`Note`: A classificação não indica meu nível de habilidade ou algo parecido, é uma métrica de GitHub da qual as linguagens de programação que têm o maior número de códigos no GitHub.
+`Note`: A classificação não indica meu nível de habilidade ou algo parecido, é uma métrica de GitHub da qual as linguagens de programação que têm o maior número de códigos que tenho nos repositórios.
 
 <!-- RANK DOS ARQUIVOS -->
 
