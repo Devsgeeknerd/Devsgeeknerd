@@ -60,7 +60,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- NOTA -->
 
-`Note`: The rank does not indicate my skill level or anything like that, it's a Github metric of which programming languages have the most code on GitHub.
+`Note`: A classificação não indica meu nível de habilidade ou algo parecido, é uma métrica de GitHub da qual as linguagens de programação que têm o maior número de códigos no GitHub.
 
 <!-- RANK DOS ARQUIVOS -->
 
@@ -72,7 +72,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORESs&labelColor=f9e64f "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
