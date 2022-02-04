@@ -64,7 +64,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- RANK DOS ARQUIVOS -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Principais)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Classificação)
 
 <!-- INFORMAÇÕES -->
 
