@@ -16,31 +16,35 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 ## :books: **CURSOS**
 
-- [ ] Curso de Agência Web
-- [ ] Curso de Android Arch
-- [ ] Curso de Android Express
-- [ ] Curso de Banco de Dados
-- [ ] Curso de Desenvolvimento de Aplicativos
-- [ ] Curso de Desenvolvimento Web (2.0)
-- [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto  
-- [ ] Curso de Desenvolvimento Web Completo
-- [ ] Curso de Design de Aplicativos
-- [ ] Curso de Design Para Web
-- [ ] Curso de Front-end (2.0)
+<!-- - [ ] Curso de Agência Web -->
+<!-- - [ ] Curso de Android Arch -->
+<!-- - [ ] Curso de Android Express -->
+<!-- - [ ] Curso de Banco de Dados -->
+<!-- - [ ] Curso de Desenvolvimento de Aplicativos -->
+<!-- - [ ] Curso de Desenvolvimento Web (2.0) -->
+<!-- - [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto   -->
+<!-- - [ ] Curso de Desenvolvimento Web Completo -->
+<!-- - [ ] Curso de Design de Aplicativos -->
+<!-- - [ ] Curso de Design Para Web -->
+<!-- - [ ] Curso de Front-end (2.0) -->
 - [ ] [Curso de Full Stack](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
-- [ ] Curso de Infraestrutura Web  
-- [ ] Curso de Inglês Para Programadores
-- [ ] Curso de JavaScript Completo  
-- [ ] Curso de Lógica de Programação
-- [ ] Curso de Marketing Digital Para Programadores
-- [ ] Curso de Node.js
-- [ ] Curso de PHP Jedi
-- [ ] Curso de Produtividade Para Programadores
-- [ ] Curso de Web Design Express
-- [ ] Curso de Webmaster Front-end Completo  
-- [ ] Curso de WordPress Completo
+<!-- - [ ] Curso de Infraestrutura Web -->
+<!-- - [ ] Curso de Inglês Para Programadores -->
+<!-- - [ ] Curso de JavaScript Completo -->
+<!-- - [ ] Curso de Lógica de Programação -->
+<!-- - [ ] Curso de Marketing Digital Para Programadores -->
+<!-- - [ ] Curso de Node.js -->
+<!-- - [ ] Curso de PHP Jedi -->
+<!-- - [ ] Curso de Produtividade Para Programadores -->
+<!-- - [ ] Curso de Web Design Express -->
+<!-- - [ ] Curso de Webmaster Front-end Completo -->
+<!-- - [ ] Curso de WordPress Completo -->
 
 <!-- PROJETOS DOS CURSOS -->
+
+<!-- PROJETOS DOS TREINAMENTOS -->
+
+<!-- PROJETOS PRÓPRIOS -->
 
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 
@@ -52,7 +56,7 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- ESTATÍSTICAS DO GIHUB -->
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=7fff00&bg_color=DEG,8b008b,7a28a3,ff1493&icon_color=000000&text_color=ffffff&include_all-commits=true&locale=pt-BR)
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=7fff00&bg_color=DEG,8b008b,7a28a3,ff1493&icon_color=000000&text_color=ffffff&include_all-commits=true&border_radius=15&locale=pt-BR)
 
 <!-- NOTA -->
 
@@ -63,7 +67,6 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Principais)
 
 <!-- INFORMAÇÕES -->
-
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%2342b883&style=plastic "Total de Visitas")
 &nbsp;
