@@ -64,16 +64,17 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 
 <!-- INFORMAÇÕES -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.Devsgeeknerd "Total de Visitas")
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%2342b883&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Seguidores&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=social "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=social "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=social "Total de Forks")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=social "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=palstic&label=Licença&labelColor=f9e64f "Licença do Repositório")
