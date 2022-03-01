@@ -4,12 +4,12 @@
 
 <!-- DESCRIÇÃO -->
 
-Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver problemas, automatizar coisas e construir _Software_.
+Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver problemas, automatizar coisas e construir *Software*.
 
 <!-- CITAÇÕES -->
 
 > :heart: Resolva primeiro o problema e, em seguida, escreva o código.
-> 
+>
 <!-- CONTATOS -->
 
 <!-- CURSOS -->
@@ -81,4 +81,3 @@ Sou um estudante __*Full Stack*__ apaixonado por escrever código, resolver prob
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
-
