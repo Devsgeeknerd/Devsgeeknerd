@@ -9,7 +9,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- CITAÇÕES -->
 
 > :heart: Resolva primeiro o problema e, em seguida, escreva o código.
->
+
 <!-- CONTATOS -->
 
 <!-- CURSOS -->
