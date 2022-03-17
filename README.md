@@ -23,8 +23,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Desenvolvimento de Aplicativos -->
 <!-- * [ ] Curso de Desenvolvimento Web (2.0) -->
 <!-- * [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto   -->
-<!-- - [ ] Curso de Desenvolvimento Web Completo -->
-<!-- - [ ] Curso de Design de Aplicativos -->
+<!-- * [ ] Curso de Desenvolvimento Web Completo -->
+<!-- * [ ] Curso de Design de Aplicativos -->
 <!-- - [ ] Curso de Design Para Web -->
 <!-- - [ ] Curso de Front-end (2.0) -->
 - [ ] [Curso de Full Stack](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
