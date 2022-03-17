@@ -32,7 +32,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Inglês Para Programadores -->
 <!-- * [ ] Curso de JavaScript Completo -->
 <!-- * [ ] Curso de Lógica de Programação -->
-<!-- - [ ] Curso de Marketing Digital Para Programadores -->
+<!-- * [ ] Curso de Marketing Digital Para Programadores -->
 <!-- - [ ] Curso de Node.js -->
 <!-- - [ ] Curso de PHP Jedi -->
 <!-- - [ ] Curso de Produtividade Para Programadores -->
