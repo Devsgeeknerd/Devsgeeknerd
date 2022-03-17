@@ -29,7 +29,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Front-end (2.0) -->
 * [ ] [Curso de Full Stack](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
 <!-- * [ ] Curso de Infraestrutura Web -->
-<!-- - [ ] Curso de Inglês Para Programadores -->
+<!-- * [ ] Curso de Inglês Para Programadores -->
 <!-- - [ ] Curso de JavaScript Completo -->
 <!-- - [ ] Curso de Lógica de Programação -->
 <!-- - [ ] Curso de Marketing Digital Para Programadores -->
