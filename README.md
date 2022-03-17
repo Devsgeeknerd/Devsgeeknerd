@@ -21,7 +21,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Android Express -->
 <!-- * [ ] Curso de Banco de Dados -->
 <!-- * [ ] Curso de Desenvolvimento de Aplicativos -->
-<!-- - [ ] Curso de Desenvolvimento Web (2.0) -->
+<!-- * [ ] Curso de Desenvolvimento Web (2.0) -->
 <!-- - [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto   -->
 <!-- - [ ] Curso de Desenvolvimento Web Completo -->
 <!-- - [ ] Curso de Design de Aplicativos -->
