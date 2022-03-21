@@ -10,6 +10,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 > :heart: Resolva primeiro o problema e, em seguida, escreva o código.
 
+> :wink: Pense duas vezes e codifique uma!
+
 <!-- CONTATOS -->
 
 <!-- CURSOS -->
