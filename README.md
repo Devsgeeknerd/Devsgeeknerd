@@ -43,6 +43,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de WordPress Completo -->
 
 <!-- PROJETOS DOS CURSOS -->
+## PROJETOS DOS CURSOS :mortar_board:
 
 <!-- PROJETOS DOS TREINAMENTOS -->
 
