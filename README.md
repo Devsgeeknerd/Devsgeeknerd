@@ -63,7 +63,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&border_radius=18&locale=pt-BR)
 
-![Paulo Vanderley wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devsgeeknerd&custom_title=Devsgeeknerd)
+![Devsgeeknerd's wakatime static](https://github-readme-stats.vercel.app/api/wakatime?username=Devsgeeknerd&title_color=fff&bg_color=DEG,fcb045,fd1d1d,833ab4&icon_color=fff&text_color=000&border_radius=18&locale=pt-BR)
 
 <!-- NOTA -->
 
