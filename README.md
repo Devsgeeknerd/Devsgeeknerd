@@ -1,6 +1,6 @@
 <!-- TÍTULO PRINCIPAL -->
 
-# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye:
+# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye
 
 <!-- DESCRIÇÃO -->
 
@@ -43,7 +43,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de WordPress Completo -->
 
 <!-- PROJETOS DOS CURSOS -->
-## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board:
+## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board
 
 * [ ] [Portal.](https://github.com/Devsgeeknerd/portal)
 
