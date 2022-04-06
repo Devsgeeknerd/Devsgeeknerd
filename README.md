@@ -41,7 +41,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Web Design Express -->
 <!-- * [ ] Curso de Webmaster Front-end Completo -->
 <!-- * [ ] Curso de WordPress Completo -->
-* [ ] Treinamento de WordPress
+* [ ] [Treinamento de WordPress](https://github.com/Devsgeeknerd/treinamento-wordpress "Ver destalhes do Treinamento")
 
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board -->
