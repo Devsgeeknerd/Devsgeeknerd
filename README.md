@@ -24,7 +24,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Banco de Dados -->
 <!-- * [ ] Curso de Desenvolvimento de Aplicativos -->
 <!-- * [ ] Curso de Desenvolvimento Web (2.0) -->
-* [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto
+<!-- * [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto -->
 <!-- * [ ] Curso de Desenvolvimento Web Completo -->
 <!-- * [ ] Curso de Design de Aplicativos -->
 <!-- * [ ] Curso de Design Para Web -->
@@ -41,6 +41,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Curso de Web Design Express -->
 <!-- * [ ] Curso de Webmaster Front-end Completo -->
 <!-- * [ ] Curso de WordPress Completo -->
+* [ ] Treinamento de WordPress
 
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board -->
