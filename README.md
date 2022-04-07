@@ -60,9 +60,21 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- FERRAMENTAS -->
 
+## 📊 MÉTRICAS
+
 <!-- ESTATÍSTICAS DO GIHUB -->
 
+### GitHub
+
 ![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&border_radius=18&locale=pt-BR)
+
+<!-- ESTATÍSTICAS DA WAKATIME -->
+
+### Wakatime
+
+<p align="center">
+  <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
+</p>
 
 <!-- NOTA -->
 
@@ -70,9 +82,13 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- RANK DOS ARQUIVOS -->
 
+### Rank das Liguagens
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Classificação)
 
 <!-- INFORMAÇÕES -->
+
+## INFORMAÇÕES
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
