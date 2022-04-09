@@ -82,7 +82,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- RANK DOS ARQUIVOS -->
 
-### Rank das Liguagens
+### Rank das Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Classificação)
 
@@ -94,12 +94,12 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
-<!-- &nbsp; -->
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+&nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
-<!-- &nbsp; -->
+&nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
-<!-- &nbsp; -->
+&nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
