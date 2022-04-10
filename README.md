@@ -44,7 +44,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 * [ ] [Treinamento de WordPress.](https://github.com/Devsgeeknerd/treinamento-wordpress "Ver destalhes do Treinamento")
 
 <!-- PROJETOS DOS CURSOS -->
-<!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board -->
+<!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board: -->
 
 <!-- * [ ] [Portal.](https://github.com/Devsgeeknerd/portal) -->
 
@@ -62,11 +62,17 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ## 📊 MÉTRICAS
 
-<!-- ESTATÍSTICAS DO GIHUB -->
+<!-- ESTATÍSTICAS DO GITHUB -->
 
-### GitHub
+<!-- CARD DO REPOSITÓRIO -->
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cache_seconds=10800&line_height=30&border_radius=18&locale=pt-BR)
+### Cartão do Repositório
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_owner=true&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR)
+
+### GitHub Geral
+
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR)
 
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
@@ -84,7 +90,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=36&title_color=4b0082&bg_color=c3e6h9&card_width=auto&custom_title=Classificação)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=600&custom_title=Classificação)
 
 <!-- INFORMAÇÕES -->
 
