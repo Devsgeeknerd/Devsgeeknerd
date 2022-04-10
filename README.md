@@ -18,30 +18,30 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ## :books: **CURSOS**
 
-<!-- * [ ] Curso de Agência Web -->
-<!-- * [ ] Curso de Android Arch -->
-<!-- * [ ] Curso de Android Express -->
-<!-- * [ ] Curso de Banco de Dados -->
-<!-- * [ ] Curso de Desenvolvimento de Aplicativos -->
-<!-- * [ ] Curso de Desenvolvimento Web (2.0) -->
-<!-- * [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto -->
-<!-- * [ ] Curso de Desenvolvimento Web Completo -->
-<!-- * [ ] Curso de Design de Aplicativos -->
-<!-- * [ ] Curso de Design Para Web -->
-<!-- * [ ] Curso de Front-end (2.0) -->
+<!-- * [ ] Curso de Agência Web. -->
+<!-- * [ ] Curso de Android Arch. -->
+<!-- * [ ] Curso de Android Express. -->
+<!-- * [ ] Curso de Banco de Dados. -->
+<!-- * [ ] Curso de Desenvolvimento de Aplicativos. -->
+<!-- * [ ] Curso de Desenvolvimento Web (2.0). -->
+<!-- * [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto. -->
+<!-- * [ ] Curso de Desenvolvimento Web Completo. -->
+<!-- * [ ] Curso de Design de Aplicativos. -->
+<!-- * [ ] Curso de Design Para Web. -->
+<!-- * [ ] Curso de Front-end (2.0). -->
 * [ ] [Curso de Full Stack.](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
-<!-- * [ ] Curso de Infraestrutura Web -->
-<!-- * [ ] Curso de Inglês Para Programadores -->
-<!-- * [ ] Curso de JavaScript Completo -->
-<!-- * [ ] Curso de Lógica de Programação -->
-<!-- * [ ] Curso de Marketing Digital Para Programadores -->
-<!-- * [ ] Curso de Node.js -->
-<!-- * [ ] Curso de PHP Jedi -->
-<!-- * [ ] Curso de Produtividade Para Programadores -->
-<!-- * [ ] Curso de Web Design Express -->
-<!-- * [ ] Curso de Webmaster Front-end Completo -->
-<!-- * [ ] Curso de WordPress Completo -->
-* [ ] [Treinamento de WordPress](https://github.com/Devsgeeknerd/treinamento-wordpress "Ver destalhes do Treinamento")
+<!-- * [ ] Curso de Infraestrutura Web. -->
+<!-- * [ ] Curso de Inglês Para Programadores. -->
+<!-- * [ ] Curso de JavaScript Completo. -->
+<!-- * [ ] Curso de Lógica de Programação. -->
+<!-- * [ ] Curso de Marketing Digital Para Programadores. -->
+<!-- * [ ] Curso de Node.js. -->
+<!-- * [ ] Curso de PHP Jedi. -->
+<!-- * [ ] Curso de Produtividade Para Programadores. -->
+<!-- * [ ] Curso de Web Design Express. -->
+<!-- * [ ] Curso de Webmaster Front-end Completo. -->
+<!-- * [ ] Curso de WordPress Completo. -->
+* [ ] [Treinamento de WordPress.](https://github.com/Devsgeeknerd/treinamento-wordpress "Ver destalhes do Treinamento")
 
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board -->
@@ -66,7 +66,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### GitHub
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&border_radius=18&locale=pt-BR)
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cache_seconds=10800&line_height=30&border_radius=18&locale=pt-BR)
 
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
