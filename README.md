@@ -90,7 +90,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=600&custom_title=Classificação)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=999&custom_title=Classificação)
 
 <!-- INFORMAÇÕES -->
 
