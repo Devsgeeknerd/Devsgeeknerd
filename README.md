@@ -68,7 +68,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Cartão do Repositório
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_owner=true&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR)
 
 ### GitHub Geral
 
