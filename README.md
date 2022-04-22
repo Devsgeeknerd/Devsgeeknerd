@@ -58,9 +58,9 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] React.js Ninja. -->
 <!-- * [ ] SEO Para Sites WordPress. -->
 <!-- * [ ] Unity 5 — Como Criar um Jogo de Plataforma 3D. -->
-* [ ] Web Design Express.
-* [ ] Web Moderno Completo.
-* [ ] Webmaster Front-end Completo.
+<!-- * [ ] Web Design Express. -->
+<!-- * [ ] Web Moderno Completo. -->
+<!-- * [ ] Webmaster Front-end Completo. -->
 <!-- * [ ] WordPress Completo. -->
 
 <!-- TREINAMENTOS -->
