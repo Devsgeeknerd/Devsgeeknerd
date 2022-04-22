@@ -51,7 +51,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Kotlin Completo. -->
 <!-- * [ ] Kotlin Para iniciante. -->
 <!-- * [ ] Logica de Programação. -->
-* [ ] Marketing Digital Para Programadores.
+<!-- * [ ] Marketing Digital Para Programadores. -->
 * [ ] Node.js.
 * [ ] PHP Jedi.
 * [ ] Produtividade Para Programadores.
