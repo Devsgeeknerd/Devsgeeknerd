@@ -66,7 +66,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board: -->
 
-<!-- * [ ] [Portal.](https://github.com/Devsgeeknerd/portal) -->
+<!-- * [ ] Portal. -->
 
 <!-- PROJETOS DOS TREINAMENTOS -->
 
@@ -86,9 +86,9 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- CARD DO REPOSITÓRIO -->
 
-### Cartão do Repositório
+<!-- ### Cartão do Repositório
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR) -->
 
 ### GitHub Geral
 
