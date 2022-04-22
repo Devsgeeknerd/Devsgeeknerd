@@ -18,30 +18,50 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ## :books: **CURSOS**
 
-<!-- * [ ] Curso de Agência Web. -->
-<!-- * [ ] Curso de Android Arch. -->
-<!-- * [ ] Curso de Android Express. -->
-<!-- * [ ] Curso de Banco de Dados. -->
-<!-- * [ ] Curso de Desenvolvimento de Aplicativos. -->
-<!-- * [ ] Curso de Desenvolvimento Web (2.0). -->
-<!-- * [ ] Curso de Desenvolvimento Web — Do Zero ao Primeiro Projeto. -->
-<!-- * [ ] Curso de Desenvolvimento Web Completo. -->
-<!-- * [ ] Curso de Design de Aplicativos. -->
-<!-- * [ ] Curso de Design Para Web. -->
-<!-- * [ ] Curso de Front-end (2.0). -->
-* [ ] [Curso de Full Stack.](https://github.com/Devsgeeknerd/curso-de-full-stack "Ir Para o Curso")
-<!-- * [ ] Curso de Infraestrutura Web. -->
-<!-- * [ ] Curso de Inglês Para Programadores. -->
-<!-- * [ ] Curso de JavaScript Completo. -->
-<!-- * [ ] Curso de Lógica de Programação. -->
-<!-- * [ ] Curso de Marketing Digital Para Programadores. -->
-<!-- * [ ] Curso de Node.js. -->
-<!-- * [ ] Curso de PHP Jedi. -->
-<!-- * [ ] Curso de Produtividade Para Programadores. -->
-<!-- * [ ] Curso de Web Design Express. -->
-<!-- * [ ] Curso de Webmaster Front-end Completo. -->
-<!-- * [ ] Curso de WordPress Completo. -->
-* [ ] [Treinamento de WordPress.](https://github.com/Devsgeeknerd/treinamento-wordpress "Ver destalhes do Treinamento")
+* [ ] Agencia Web.
+* [ ] Algoritmos & Logica de Programação — Do Básico ao Avançado.
+* [ ] Android Arch.
+* [ ] Android Express.
+* [ ] Android Para Iniciantes.
+* [ ] Angular 2 Desmistificado.
+* [ ] Aprenda Rápido Unity 3D.
+* [ ] Banco de Dados.
+* [ ] Bootstrap 4 Ultimate.
+* [ ] Desenvolvimento de Aplicativos Android Para Iniciantes.
+* [ ] Desenvolvimento de Aplicativos.
+* [ ] Desenvolvimento Web (2.0).
+* [ ] Desenvolvimento Web Completo.
+* [ ] Desenvolvimento Web Responsivo Completo.
+* [ ] Desenvolvimento Web — Do Zero ao Primeiro Projeto.
+* [ ] Design de Aplicativos.
+* [ ] Design Para Web.
+* [ ] Front-end (2.0).
+* [ ] Full Stack.
+* [ ] Gestão Ágil Com Scrum Completo.
+* [ ] HTML em 1 Hora.
+* [ ] Infraestrutura Web.
+* [ ] Inglês extremo — Do Zero a Fluência.
+* [ ] Inglês Para Programadores.
+* [ ] Java Completo.
+* [ ] JavaScript & jQuery Completo.
+* [ ] JavaScript & TypeScript — Do Básico ao Avançado.
+* [ ] JavaScript Completo.
+* [ ] JavaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista.
+* [ ] Kanban Completo.
+* [ ] Kotlin Completo.
+* [ ] Kotlin Para iniciante.
+* [ ] Logica de Programação.
+* [ ] Marketing Digital Para Programadores.
+* [ ] Node.js.
+* [ ] PHP Jedi.
+* [ ] Produtividade Para Programadores.
+* [ ] React.js Ninja.
+* [ ] SEO Para Sites WordPress.
+* [ ] Unity 5 — Como Criar um Jogo de Plataforma 3D.
+* [ ] Web Design Express.
+* [ ] Web Moderno Completo.
+* [ ] Webmaster Front-end Completo.
+* [ ] WordPress Completo.
 
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board: -->
