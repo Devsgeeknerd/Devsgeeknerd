@@ -35,9 +35,9 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Desenvolvimento Web — Do Zero ao Primeiro Projeto. -->
 <!-- * [ ] Design de Aplicativos. -->
 <!-- * [ ] Design Para Web. -->
-* [ ] Front-end (2.0).
-* [ ] Full Stack.
-* [ ] Gestão Ágil Com Scrum Completo.
+<!-- * [ ] Front-end (2.0). -->
+<!-- * [ ] Full Stack. -->
+<!-- * [ ] Gestão Ágil Com Scrum Completo. -->
 * [ ] HTML em 1 Hora.
 * [ ] Infraestrutura Web.
 * [ ] Inglês extremo — Do Zero a Fluência.
