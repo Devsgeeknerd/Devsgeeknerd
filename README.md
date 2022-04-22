@@ -46,7 +46,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] JavaScript & jQuery Completo. -->
 <!-- * [ ] JavaScript & TypeScript — Do Básico ao Avançado. -->
 <!-- * [ ] JavaScript Completo. -->
-* [ ] JavaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista.
+<!-- * [ ] JavaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista. -->
 * [ ] Kanban Completo.
 * [ ] Kotlin Completo.
 * [ ] Kotlin Para iniciante.
@@ -63,12 +63,13 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 * [ ] Webmaster Front-end Completo.
 <!-- * [ ] WordPress Completo. -->
 
+<!-- TREINAMENTOS -->
+<!-- ## TREINAMENTOS  -->
+
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board: -->
 
 <!-- * [ ] Portal. -->
-
-<!-- PROJETOS DOS TREINAMENTOS -->
 
 <!-- PROJETOS PRÓPRIOS -->
 
