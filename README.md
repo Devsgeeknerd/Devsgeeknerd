@@ -21,7 +21,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Agencia Web. -->
 * [ ] Algoritmos & Logica de Programação — Do Básico ao Avançado.
 <!-- * [ ] Android Arch. -->
-* [ ] Android Express.
+<!-- * [ ] Android Express. -->
 * [ ] Android Para Iniciantes.
 * [ ] Angular 2 Desmistificado.
 * [ ] Aprenda Rápido Unity 3D.
