@@ -61,7 +61,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 * [ ] Web Design Express.
 * [ ] Web Moderno Completo.
 * [ ] Webmaster Front-end Completo.
-* [ ] WordPress Completo.
+<!-- * [ ] WordPress Completo. -->
 
 <!-- PROJETOS DOS CURSOS -->
 <!-- ## :open_file_folder: **PROJETOS DOS CURSOS** :mortar_board: -->
