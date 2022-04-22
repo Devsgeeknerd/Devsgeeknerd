@@ -38,7 +38,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Front-end (2.0). -->
 <!-- * [ ] Full Stack. -->
 <!-- * [ ] Gestão Ágil Com Scrum Completo. -->
-* [ ] HTML em 1 Hora.
+<!-- * [ ] HTML em 1 Hora. -->
 * [ ] Infraestrutura Web.
 * [ ] Inglês extremo — Do Zero a Fluência.
 * [ ] Inglês Para Programadores.
