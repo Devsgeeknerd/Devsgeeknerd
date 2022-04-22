@@ -54,8 +54,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Marketing Digital Para Programadores. -->
 <!-- * [ ] Node.js. -->
 <!-- * [ ] PHP Jedi. -->
-* [ ] Produtividade Para Programadores.
-* [ ] React.js Ninja.
+<!-- * [ ] Produtividade Para Programadores. -->
+<!-- * [ ] React.js Ninja. -->
 * [ ] SEO Para Sites WordPress.
 * [ ] Unity 5 — Como Criar um Jogo de Plataforma 3D.
 * [ ] Web Design Express.
