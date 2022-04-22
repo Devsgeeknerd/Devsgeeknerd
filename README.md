@@ -50,7 +50,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Kanban Completo. -->
 <!-- * [ ] Kotlin Completo. -->
 <!-- * [ ] Kotlin Para iniciante. -->
-* [ ] Logica de Programação.
+<!-- * [ ] Logica de Programação. -->
 * [ ] Marketing Digital Para Programadores.
 * [ ] Node.js.
 * [ ] PHP Jedi.
