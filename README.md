@@ -52,8 +52,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Kotlin Para iniciante. -->
 <!-- * [ ] Logica de Programação. -->
 <!-- * [ ] Marketing Digital Para Programadores. -->
-* [ ] Node.js.
-* [ ] PHP Jedi.
+<!-- * [ ] Node.js. -->
+<!-- * [ ] PHP Jedi. -->
 * [ ] Produtividade Para Programadores.
 * [ ] React.js Ninja.
 * [ ] SEO Para Sites WordPress.
