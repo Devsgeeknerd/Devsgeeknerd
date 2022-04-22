@@ -24,8 +24,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Android Express. -->
 <!-- * [ ] Android Para Iniciantes. -->
 <!-- * [ ] Angular 2 Desmistificado. -->
-* [ ] Aprenda Rápido Unity 3D.
-* [ ] Banco de Dados.
+<!-- * [ ] Aprenda Rápido Unity 3D. -->
+<!-- * [ ] Banco de Dados. -->
 * [ ] Bootstrap 4 Ultimate.
 * [ ] Desenvolvimento de Aplicativos Android Para Iniciantes.
 * [ ] Desenvolvimento de Aplicativos.
