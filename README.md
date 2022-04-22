@@ -41,8 +41,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] HTML em 1 Hora. -->
 <!-- * [ ] Infraestrutura Web. -->
 <!-- * [ ] Inglês extremo — Do Zero a Fluência. -->
-* [ ] Inglês Para Programadores.
-* [ ] Java Completo.
+<!-- * [ ] Inglês Para Programadores. -->
+<!-- * [ ] Java Completo. -->
 * [ ] JavaScript & jQuery Completo.
 * [ ] JavaScript & TypeScript — Do Básico ao Avançado.
 * [ ] JavaScript Completo.
