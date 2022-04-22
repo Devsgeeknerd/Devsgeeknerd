@@ -47,7 +47,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] JavaScript & TypeScript — Do Básico ao Avançado. -->
 <!-- * [ ] JavaScript Completo. -->
 <!-- * [ ] JavaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista. -->
-* [ ] Kanban Completo.
+<!-- * [ ] Kanban Completo. -->
 * [ ] Kotlin Completo.
 * [ ] Kotlin Para iniciante.
 * [ ] Logica de Programação.
