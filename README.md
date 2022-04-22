@@ -43,8 +43,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Inglês extremo — Do Zero a Fluência. -->
 <!-- * [ ] Inglês Para Programadores. -->
 <!-- * [ ] Java Completo. -->
-* [ ] JavaScript & jQuery Completo.
-* [ ] JavaScript & TypeScript — Do Básico ao Avançado.
+<!-- * [ ] JavaScript & jQuery Completo. -->
+<!-- * [ ] JavaScript & TypeScript — Do Básico ao Avançado. -->
 * [ ] JavaScript Completo.
 * [ ] JavaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista.
 * [ ] Kanban Completo.
