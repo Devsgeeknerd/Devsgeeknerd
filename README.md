@@ -98,6 +98,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- GRÁFICO DE ATIVIDADE -->
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&locale=pt-BR)
+
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
 ### Wakatime
