@@ -1,6 +1,6 @@
 <!-- TÍTULO PRINCIPAL -->
 
-# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye
+# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye:
 
 <!-- DESCRIÇÃO -->
 
