@@ -90,6 +90,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR)
 
+<!-- ESTADOS DE FORÇA  -->
+
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
 ### Wakatime
