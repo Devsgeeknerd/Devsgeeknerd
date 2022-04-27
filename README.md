@@ -94,13 +94,13 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Estatísticas de Força
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=f000f&fire=f0000f&currStreakNum=22f55f&currStreakLabel=22f55f&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_boder=true&locale=pt-BR)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=f000f&fire=f0000f&currStreakNum=22f55f&currStreakLabel=22f55f&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_boder=false&locale=pt-BR&border_color=0000ff&border_radius=18)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 
 ### Gráfico de Atividades
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=Grafico%20de%20Commits&locale=pt-BR)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=7d46da&color=ffffff&line=2ebeef&point=ff00ff&area_color=000&area=true&hide_border=false&custom_title=Grafico%20de%20Commits&locale=pt-BR&border_color=0000ff&border_radius=18)
 
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
