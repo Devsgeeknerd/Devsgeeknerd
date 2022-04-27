@@ -94,7 +94,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Estatísticas de Força
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=ffde38&background=7d46da&ring=00ff00&fire=ff0000&currStreakNum=000000&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_boder=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=f000f&fire=f0000f&currStreakNum=3366f9&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_boder=true&locale=pt-BR)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 
