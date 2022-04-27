@@ -1,6 +1,6 @@
 <!-- TÍTULO PRINCIPAL -->
 
-# :nerd_face: **SEJA BEM-VINDO(A) AO MEU PERFIL** :stuck_out_tongue_winking_eye:
+# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye
 
 <!-- DESCRIÇÃO -->
 
@@ -18,8 +18,8 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ## :books: **CURSOS**
 
-<!-- * [ ] Agencia Web. -->
-* [ ] [Algoritmos & Logica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
+<!-- * [ ] Agência Web. -->
+* [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
 <!-- * [ ] Android Arch. -->
 <!-- * [ ] Android Express. -->
 <!-- * [ ] Android Para Iniciantes. -->
@@ -50,7 +50,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 <!-- * [ ] Kanban Completo. -->
 <!-- * [ ] Kotlin Completo. -->
 <!-- * [ ] Kotlin Para iniciante. -->
-<!-- * [ ] Logica de Programação. -->
+<!-- * [ ] Lógica de Programação. -->
 <!-- * [ ] Marketing Digital Para Programadores. -->
 <!-- * [ ] Node.js. -->
 <!-- * [ ] PHP Jedi. -->
@@ -85,12 +85,6 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 ## 📊 MÉTRICAS
 
 <!-- ESTATÍSTICAS DO GITHUB -->
-
-<!-- CARD DO REPOSITÓRIO -->
-
-<!-- ### Cartão do Repositório
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devsgeeknerd&repo=Devsgeeknerd&show_icons=true&title_color=fff&bg_color=DEG,3f5efb,fc466b&icon_color=000&text_color=fff&line_height=36&border_radius=18&border_color=0000ff&card_width=600&locale=pt-BR) -->
 
 ### GitHub Geral
 
