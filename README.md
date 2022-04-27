@@ -96,9 +96,11 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_boder=true)
 
-<!-- GRÁFICO DE ATIVIDADE -->
+<!-- GRÁFICO DE ATIVIDADES -->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&locale=pt-BR)
+### Gráfico de Atividades
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=Grafico%20de%20Commits&locale=pt-BR)
 
 <!-- ESTATÍSTICAS DA WAKATIME -->
 
@@ -116,7 +118,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=999&custom_title=Classificação)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=999&custom_title=Classificação%20das%20Linguagens)
 
 <!-- INFORMAÇÕES -->
 
