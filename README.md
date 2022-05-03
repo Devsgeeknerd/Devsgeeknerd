@@ -1,6 +1,6 @@
 <!-- TÍTULO PRINCIPAL -->
 
-# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye:
+# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL** :stuck_out_tongue_winking_eye
 
 <!-- DESCRIÇÃO -->
 
@@ -94,7 +94,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 ### Estatísticas de Força
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=f000f&fire=f0000f&currStreakNum=22f55f&currStreakLabel=22f55f&sideNums=000&sideLabels=ffffff&dates=000&hide_boder=false&locale=pt-BR)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f55f&sideNums=000&sideLabels=ffffff&dates=000&hide_boder=false&locale=pt-BR)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 
@@ -116,7 +116,7 @@ Sou um estudante ***Full Stack*** apaixonado por escrever código, resolver prob
 
 <!-- RANK DOS ARQUIVOS -->
 
-### Rank das Linguagens
+### Top Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=999&custom_title=Classificação%20das%20Linguagens)
 
