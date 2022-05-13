@@ -4,7 +4,7 @@
 
 <!-- DESCRIÇÃO -->
 
-Sou um estudante ***Full Stack*** apaixonado por aprender coisa novas, escrever código, resolver problemas, automatizar coisas e desenvolver websites, Apps e mais um pouco.
+Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver websites, Apps e mais um pouco.
 
 <!-- CITAÇÕES -->
 
