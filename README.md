@@ -18,7 +18,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ## :books: **CURSOS**
 
-* [ ] Agência Web.
+<!-- * [ ] Agência Web. -->
 * [ ] Algoritmos & Lógica de Programação — Do Básico ao Avançado.
 * [ ] Android Arch.
 * [ ] Android Express.
