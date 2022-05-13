@@ -10,4 +10,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisa novas, escrever 
 
 > :heat: Resolva primeiro o problema e, em seguida, escreva o código.
 
+> :wink: Pense duas vezes e codifique uma!
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
