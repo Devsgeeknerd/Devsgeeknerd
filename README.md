@@ -1,6 +1,6 @@
 <!-- TÍTULO -->
 
-# :nerd_face: **SEJA BEM-VINDA(O) AO MEU PERFIL**
+# :nerd_face: **SEJAM MUITO BEM-VINDOS AO MEU PERFIL**
 
 <!-- DESCRIÇÃO -->
 
