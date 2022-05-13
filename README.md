@@ -22,7 +22,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 * [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava "Ver detalhes")
 <!-- * [ ] Android Arch. -->
 <!-- * [ ] Android Express. -->
-* [ ] Android Para Iniciantes.
+<!-- * [ ] Android Para Iniciantes. -->
 * [ ] Angular 2 — Desmistificado.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
