@@ -19,7 +19,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 ## :books: **CURSOS**
 
 <!-- * [ ] Agência Web. -->
-* [ ] Algoritmos & Lógica de Programação — Do Básico ao Avançado.
+* [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava "Ver detalhes")
 * [ ] Android Arch.
 * [ ] Android Express.
 
