@@ -8,7 +8,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisa novas, escrever 
 
 <!-- CITAÇÕES -->
 
-> :heat: Resolva primeiro o problema e, em seguida, escreva o código.
+> :heart: Resolva primeiro o problema e, em seguida, escreva o código.
 
 > :wink: Pense duas vezes e codifique uma!
 
