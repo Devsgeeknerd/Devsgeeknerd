@@ -38,7 +38,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 <!-- * [ ] Front-end — 2.0. -->
 <!-- * [ ] Full Stack. -->
 <!-- * [ ] Gestão Ágil Com Scrum Completo. -->
-* [ ] HTML em 1 Hora.
+<!-- * [ ] HTML em 1 Hora. -->
 * [ ] Infraestrutura Web.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
