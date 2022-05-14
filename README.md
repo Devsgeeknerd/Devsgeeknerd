@@ -28,5 +28,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 <!-- * [ ] Banco de Dados. -->
 <!-- * [ ] Bootstrap 4 — Ultimate. -->
 * [ ] Desenvolvimento de Aplicativos Android Para Iniciantes.
+* [ ] Desenvolvimento de Aplicativos.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
