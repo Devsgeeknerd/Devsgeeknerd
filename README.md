@@ -30,7 +30,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 <!-- * [ ] Desenvolvimento de Aplicativos Android Para Iniciantes. -->
 <!-- * [ ] Desenvolvimento de Aplicativos. -->
 <!-- * [ ] Desenvolvimento Web — 2.0. -->
-* [ ] Desenvolvimento Web — Completo.
+<!-- * [ ] Desenvolvimento Web — Completo. -->
 * [ ] Desenvolvimento Web — Responsivo & Completo.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
