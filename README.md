@@ -31,7 +31,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 <!-- * [ ] Desenvolvimento de Aplicativos. -->
 <!-- * [ ] Desenvolvimento Web — 2.0. -->
 <!-- * [ ] Desenvolvimento Web — Completo. -->
-* [ ] Desenvolvimento Web — Responsivo & Completo.
+<!-- * [ ] Desenvolvimento Web — Responsivo & Completo. -->
 * [ ] Desenvolvimento Web — Do Zero ao Primeiro Projeto.
 * [ ] Design de Aplicativos.
 
