@@ -47,5 +47,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 <!-- * [ ] JavaScript & TypeScript — Do Básico ao Avançado. -->
 <!-- * [ ] JavaScript Completo. -->
 * [ ] javaScript Completo Com HTML 5 & CSS 3 — Do Zero ao Especialista.
+* [ ] Kanban Completo.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
