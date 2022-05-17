@@ -78,6 +78,8 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- FRAMEWORKS -->
 
+BIBLIOTECAS
+
 <!-- FERRAMENTAS -->
 
 <!-- PROJETOS PRÓPRIOS -->
