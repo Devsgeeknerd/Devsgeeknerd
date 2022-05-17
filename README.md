@@ -64,7 +64,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- PROJETOS DOS CURSOS -->
 
-## :mortar_board: **PROJETOS DOS CURSOS**
+<!-- ## :mortar_board: **PROJETOS DOS CURSOS** -->
 
 <!-- TREINAMENTOS -->
 
