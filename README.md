@@ -94,6 +94,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ### *GITHUB*
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=ffffff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=ffffff&text_color=000000&include_all-commits=true)
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=ffffff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=ffffff&text_color=000000&include_all-commits=true&hide=prs,issues,contribs)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
