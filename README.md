@@ -96,6 +96,8 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cahe_seconds=10800&line_height=30&border_color=00f&border_radius=18&card_width=600&locale=pt-BR)
 
-ESTADOS DE FORÇA
+<!-- ESTADOS DE FORÇA -->
+
+### *FORÇA*
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
