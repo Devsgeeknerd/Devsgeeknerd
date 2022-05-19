@@ -100,6 +100,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ### *FORÇA*
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46da&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f5f5&sideNums=000&sideLabels=fff)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46ff&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f5f5&sideNums=000&sideLabels=f9f9f9&dates=ffde38)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
