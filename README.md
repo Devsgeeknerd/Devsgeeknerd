@@ -120,6 +120,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ### RANK DOS ARQUIVOS
 
-![Top Langs](https://github-redame-stats.vercel.app/api/top-langs/?username=DevsgeeknerdS)
+![Top Langs](https://github-redame-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=c3e6h9)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
