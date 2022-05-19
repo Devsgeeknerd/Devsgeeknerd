@@ -94,13 +94,13 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ### *GITHUB*
 
-![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,833ab4,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cahe_seconds=10800&line_height=30&border_color=00f&border_radius=18&card_width=600&locale=pt-BR)
+![Paulo Vanderley GitHub static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=fff&bg_color=DEG,820ad1,fd1d1d,fcb045&icon_color=fff&text_color=000&include_all-commits=true&hide=prs,issues,contribs&cahe_seconds=10800&line_height=30&border_color=00f&border_radius=18&card_width=600&locale=pt-BR)
 
 <!-- ESTADOS DE FORÇA -->
 
 ### *FORÇA*
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=7d46ff&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f5f5&sideNums=000&sideLabels=f9f9f9&dates=ffde38&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=820ad1&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f5f5&sideNums=000&sideLabels=f9f9f9&dates=ffde38&hide_border=true)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 
