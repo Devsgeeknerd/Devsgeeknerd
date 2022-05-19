@@ -108,6 +108,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=ba4de3&color=fff&line=2ebeef&point=ff00ff&area_color=000&area=true&hide_border=true&custom_title=Grafico%20de%20Commits)
 
-WAKATIME
+<!-- WAKATIME -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
