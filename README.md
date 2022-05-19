@@ -106,14 +106,14 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ### ATIVIDADES
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=ba4de3&color=fff&line=2ebeef&point=ff00ff&area_color=000&area=true&hide_border=true&custom_title=Grafico%20de%20Commits)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=ba4de3&color=fff&line=ffff00&point=000&area_color=000&area=true&hide_border=true&custom_title=Grafico%20de%20Commits)
 
 <!-- WAKATIME -->
 
 ### LINGUAGENS UTILIZADAS SEMANALMENTE
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Devsgeeknerd/77d003-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
+  <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
