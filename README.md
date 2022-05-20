@@ -130,3 +130,4 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de seguidores")
 &nbsp;
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?)
