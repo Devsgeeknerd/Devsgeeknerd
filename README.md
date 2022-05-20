@@ -128,6 +128,6 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de visitas")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de seguidores")
+![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=FÃS&labelColor=f9e64f "Total de seguidores")
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES)
