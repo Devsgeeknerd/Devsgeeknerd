@@ -110,7 +110,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- WAKATIME -->
 
-### LINGUAGENS UTILIZADAS SEMANALMENTE
+### LINGUAGENS UTILIZADAS FREQUENTEMENTE
 
 <p align="center">
   <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
