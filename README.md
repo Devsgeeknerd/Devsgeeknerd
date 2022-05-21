@@ -98,19 +98,19 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- ESTADOS DE FORÇA -->
 
-### *FORÇA*
+### *FORÇA DE TRABALHO*
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=1316f9&background=820ad1&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=22f5f5&sideNums=000&sideLabels=f9f9f9&dates=ffde38&hide_border=true)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 
-### ATIVIDADES
+### *ATIVIDADES*
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=ba4de3&color=fff&line=ffff00&point=000&area_color=000&area=true&hide_border=true&custom_title=Grafico%20de%20Commits)
 
 <!-- WAKATIME -->
 
-### LINGUAGENS UTILIZADAS FREQUENTEMENTE
+### *LINGUAGENS UTILIZADAS FREQUENTEMENTE*
 
 <p align="center">
   <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
@@ -118,7 +118,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- RANK DOS ARQUIVOS -->
 
-### RANK DOS ARQUIVOS
+### *RANK DOS ARQUIVOS*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000&bg_color=c3e6h9&card_width=999&custom_title=Classificação%20dos%20Arquivos)
 
