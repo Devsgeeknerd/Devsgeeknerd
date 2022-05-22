@@ -86,6 +86,8 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- PROJETOS PRÓPRIOS -->
 
+## 💥 PROJETOS PRÓPRIOS
+
 <!-- MÉTRICAS -->
 
 ## 📊 MÉTRICAS
