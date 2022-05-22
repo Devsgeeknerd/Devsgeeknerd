@@ -89,6 +89,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 ## 💥 PROJETOS PRÓPRIOS
 
 * [ ] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-de-sorte)
+* [ ] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dupla-sena)
 
 <!-- MÉTRICAS -->
 
