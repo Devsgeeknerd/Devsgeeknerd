@@ -74,6 +74,10 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 <!-- * [ ] WordPress. -->
 
+<!-- WORKSHOPS -->
+
+<!-- ## **PROJETOS FEITOS EM WORKSHOPS** -->
+
 <!-- LINGUAGENS DE PROGRAMAÇÃO -->
 
 <!-- METODOLOGIAS -->
