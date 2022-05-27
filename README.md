@@ -96,6 +96,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dupla-sena)
 * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-impar)
 * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
+* [ ] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac)
 
 <!-- MÉTRICAS -->
 
