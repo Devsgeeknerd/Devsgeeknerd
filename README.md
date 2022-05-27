@@ -94,7 +94,7 @@ Sou um estudante ***Full Stack*** apaixonado por aprender coisas novas, escrever
 
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-de-sorte)
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dupla-sena)
-* [ ] [Impar.](https://github.com/Devsgeeknerd/pro-impar)
+* [ ] [Ímpar.](https://github.com/Devsgeeknerd/pro-impar)
 
 <!-- MÉTRICAS -->
 
