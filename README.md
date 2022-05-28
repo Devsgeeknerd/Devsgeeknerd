@@ -59,7 +59,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Wordpress Completo.](https://github.com/Devsgeeknerd/cur-wp-com)
 
 <!-- PROJETOS DOS CURSOS -->
-## :mortar_board: **PROJETOS DOS CURSOS**
+<!-- ## :mortar_board: **PROJETOS DOS CURSOS** -->
 
 <!-- * [ ] DevsPortal. -->
 
