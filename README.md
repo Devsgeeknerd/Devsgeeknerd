@@ -16,7 +16,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 
 <!-- * [ ] [Agência Web.](https://github.com/Devsgeeknerd/cur-age-web) -->
 * [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
-* [ ] [Android Arch.](https://github.com/Devsgeeknerd/cur-and-arc)
+<!-- * [ ] [Android Arch.](https://github.com/Devsgeeknerd/cur-and-arc) -->
 * [ ] [Android Express.](https://github.com/Devsgeeknerd/cur-and-exp)
 * [ ] [Android Para iniciantes.](https://github.com/Devsgeeknerd/cur-and-par-ini)
 * [ ] [Angular 2 — Desmistificado.](https://github.com/Devsgeeknerd/cur-ang-des)
