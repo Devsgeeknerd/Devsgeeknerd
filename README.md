@@ -51,7 +51,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Node.js.](https://github.com/Devsgeeknerd/cur-nod)
 * [ ] [PHP Jedi.](https://github.com/Devsgeeknerd/cur-php-jed)
 * [ ] [Produtividade Para Programadores.](https://github.com/Devsgeeknerd/cur-pro-par-pro)
-* [ ] [React.js Ninja.](https://github.com/Devsgeeknerd/cur-rea-nin)
+<!-- * [ ] [React.js Ninja.](https://github.com/Devsgeeknerd/cur-rea-nin) -->
 <!-- * [ ] [SEO Para sites WordPress.](https://github.com/Devsgeeknerd/cur-seo-par-sit-wp) -->
 <!-- * [ ] [Unity 5 — Como Criar um Jogo de Plataforma 3D.](https://github.com/Devsgeeknerd/cur-uni-com-cri-jog-pla-3d) -->
 <!-- * [ ] [Web Design Express.](https://github.com/Devsgeeknerd/cur-web-des-exp) -->
