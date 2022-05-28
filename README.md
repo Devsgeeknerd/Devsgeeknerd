@@ -23,10 +23,10 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] [Aprenda Rápido Unity 3D.](https://github.com/Devsgeeknerd/cur-apr-rap-uni-3d) -->
 <!-- * [ ] [Bancos de Dados.](https://gihub.com/Devsgeeknerd/cur-ban-dad) -->
 <!-- * [ ] [Bootstrap 4 — Ultimate.](https://github.com/Devsgeeknerd/cur-boo-ult) -->
-* [ ] [Desenvolvimento de Aplicativos Android Para Iniciantes.](https://github.com/Devsgeeknerd/cur-des-apl-and-par-ini)
-* [ ] [Desenvolvimento de Aplicativos.](https://github.com/Devsgeeknerd/cur-des-apl)
-* [ ] [Desenvolvimento Web — 2.0.](https://github.com/Desvgeeknerd/cur-des-web)
-* [ ] [Desenvolvimento Web — Completo.](https://github.com/Devsgeeknerd/cur-des-web-com)
+<!-- * [ ] [Desenvolvimento de Aplicativos Android Para Iniciantes.](https://github.com/Devsgeeknerd/cur-des-apl-and-par-ini) -->
+<!-- * [ ] [Desenvolvimento de Aplicativos.](https://github.com/Devsgeeknerd/cur-des-apl) -->
+<!-- * [ ] [Desenvolvimento Web — 2.0.](https://github.com/Desvgeeknerd/cur-des-web) -->
+<!-- * [ ] [Desenvolvimento Web — Completo.](https://github.com/Devsgeeknerd/cur-des-web-com) -->
 <!-- * [ ] [Desenvolvimento Web — Responsivo & Completo.](https://github.com/Devsgeeknerd/cur-web-res-com) -->
 <!-- * [ ] [Desenvolvimento Web — Do Zero ao Primeiro Projeto.](https://github.com/Devsgeeknerd/cur-des-web-zer-pri-pro) -->
 <!-- * [ ] [Design de Aplicativos.](https://github.com/Devsgeeknerd/cur-des-apl) -->
