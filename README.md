@@ -14,7 +14,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- CURSOS -->
 ## :books: **CURSOS**
 
-* [ ] [Agência Web.](https://github.com/Devsgeeknerd/cur-age-web)
+<!-- * [ ] [Agência Web.](https://github.com/Devsgeeknerd/cur-age-web) -->
 * [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
 * [ ] [Android Arch.](https://github.com/Devsgeeknerd/cur-and-arc)
 * [ ] [Android Express.](https://github.com/Devsgeeknerd/cur-and-exp)
