@@ -129,7 +129,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- RANK DOS ARQUIVOS -->
 ### *RANK DOS ARQUIVOS*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=c3e6&text_color=000000&card_width=600&custom_title=Rank%20dos%20Arquivos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=ba4de3&text_color=000000&card_width=600&custom_title=Rank%20dos%20Arquivos)
 
 <!-- INFORMAÇÕES -->
 
