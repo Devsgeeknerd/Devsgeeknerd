@@ -41,7 +41,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Java Completo.](https://github.com/Devsgeeknerd/cur-jv-com)
 * [ ] [JavaScript & jQuery — Completo.](https://github.com/Devsgeeknerd/cur-js-jqu-com)
 * [ ] [JavaScript & TypeScript — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-js-typ-bas-ava)
-* [ ] [JavaScript Completo.](https://github.com/Devsgeeknerd/cur-js-com)
+<!-- * [ ] [JavaScript Completo.](https://github.com/Devsgeeknerd/cur-js-com) -->
 <!-- * [ ] [JavaScript Completo com HTML 5 & CSS 3 — Do Zero ao Especialista.](https://github.com/Devsgeeknerd/cur-js-com-htm-css-zer-esp) -->
 <!-- * [ ] [Kanban Completo.](https://github.com/Devsgeeknerd/cur-kan-com) -->
 <!-- * [ ] [Kotlin Completo.](https://github.com/Devsgeeknerd/cur-kot-com) -->
