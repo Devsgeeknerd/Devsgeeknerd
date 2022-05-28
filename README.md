@@ -81,7 +81,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ### *METODOLOGIAS*
 
 <!-- FRAMEWORKS -->
-### *FRAMEWORKS*
+<!-- ### *FRAMEWORKS* -->
 
 <!-- BIBLIOTECAS -->
 <!-- ### *BIBLIOTECAS* -->
