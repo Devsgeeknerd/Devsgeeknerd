@@ -90,16 +90,16 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### *FERRAMENTAS* -->
 
 <!-- PROJETOS PRÓPRIOS -->
-## **PROJETOS PRÓPRIOS**
+<!-- ## **PROJETOS PRÓPRIOS** -->
 
-* [ ] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor)
-* [ ] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen)
-* [ ] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp)
-* [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
-* [ ] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac)
-* [ ] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man)
-* [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen)
-* [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
+<!-- * [ ] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor) -->
+<!-- * [ ] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen) -->
+<!-- * [ ] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp) -->
+<!-- * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik) -->
+<!-- * [ ] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac) -->
+<!-- * [ ] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man) -->
+<!-- * [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen) -->
+<!-- * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par) -->
 
 <!-- MÉTRICAS -->
 ## **MÉTRICAS**
