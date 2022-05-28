@@ -75,7 +75,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ## **O QUE APRENDI**
 
 <!-- LINGUAGENS -->
-### *LINGUAGENS*
+<!-- ### *LINGUAGENS* -->
 
 <!-- METODOLOGIAS -->
 <!-- ### *METODOLOGIAS* -->
