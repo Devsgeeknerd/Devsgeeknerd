@@ -87,7 +87,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ### *BIBLIOTECAS*
 
 <!-- FERRAMENTAS -->
-### *FERRAMENTAS*
+<!-- ### *FERRAMENTAS* -->
 
 <!-- PROJETOS PRÓPRIOS -->
 ## **PROJETOS PRÓPRIOS**
