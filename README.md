@@ -36,8 +36,8 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Gestão Ágil com Scrum Completo.](https://github.com/Devsgeeknerd/cur-ges-agi-scr-com)
 * [ ] [HTML em 1 Hora.](https://github.com/Devsgeeknerd/cur-htm-hor)
 * [ ] [Infraestrutura Web.](https://github.com/Devsgeeknerd/cur-inf-web)
-* [ ] [Inglês Extremo — Do Zero a Fluência.](https://github.com/Devsgeeknerd/cur-ing-ext-zer-flu)
-* [ ] [Inglês Para Programadores.](https://github.com/Devsgeeknerd/cur-ing-par-pro)
+<!-- * [ ] [Inglês Extremo — Do Zero a Fluência.](https://github.com/Devsgeeknerd/cur-ing-ext-zer-flu) -->
+<!-- * [ ] [Inglês Para Programadores.](https://github.com/Devsgeeknerd/cur-ing-par-pro) -->
 <!-- * [ ] [Java Completo.](https://github.com/Devsgeeknerd/cur-jv-com) -->
 <!-- * [ ] [JavaScript & jQuery — Completo.](https://github.com/Devsgeeknerd/cur-js-jqu-com) -->
 <!-- * [ ] [JavaScript & TypeScript — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-js-typ-bas-ava) -->
