@@ -20,7 +20,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] [Android Express.](https://github.com/Devsgeeknerd/cur-and-exp) -->
 <!-- * [ ] [Android Para iniciantes.](https://github.com/Devsgeeknerd/cur-and-par-ini) -->
 <!-- * [ ] [Angular 2 — Desmistificado.](https://github.com/Devsgeeknerd/cur-ang-des) -->
-* [ ] [Aprenda Rápido Unity 3D.](https://github.com/Devsgeeknerd/cur-apr-rap-uni-3d)
+<!-- * [ ] [Aprenda Rápido Unity 3D.](https://github.com/Devsgeeknerd/cur-apr-rap-uni-3d) -->
 * [ ] [Bancos de Dados.](https://gihub.com/Devsgeeknerd/cur-ban-dad)
 * [ ] [Bootstrap 4 — Ultimate.](https://github.com/Devsgeeknerd/cur-boo-ult)
 * [ ] [Desenvolvimento de Aplicativos Android Para Iniciantes.](https://github.com/Devsgeeknerd/cur-des-apl-and-par-ini)
