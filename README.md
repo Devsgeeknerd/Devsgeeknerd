@@ -46,7 +46,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Kanban Completo.](https://github.com/Devsgeeknerd/cur-kan-com)
 * [ ] [Kotlin Completo.](https://github.com/Devsgeeknerd/cur-kot-com)
 * [ ] [Kotlin Para Iniciantes.](https://github.com/Devsgeeknerd/cur-kot-par-ini)
-* [ ] [Lógica de Programação.](https://github.com/Devsgeeknerd/cur-log-pro)
+<!-- * [ ] [Lógica de Programação.](https://github.com/Devsgeeknerd/cur-log-pro) -->
 <!-- * [ ] [Marketing Digital Para Programadores.](https://github.com/Devsgeeknerd/cur-mar-par-pro) -->
 <!-- * [ ] [Node.js.](https://github.com/Devsgeeknerd/cur-nod) -->
 <!-- * [ ] [PHP Jedi.](https://github.com/Devsgeeknerd/cur-php-jed) -->
