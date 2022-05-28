@@ -49,7 +49,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Lógica de Programação.](https://github.com/Devsgeeknerd/cur-log-pro)
 * [ ] [Marketing Digital Para Programadores.](https://github.com/Devsgeeknerd/cur-mar-par-pro)
 * [ ] [Node.js.](https://github.com/Devsgeeknerd/cur-nod)
-* [ ] [PHP Jedi.](https://github.com/Devsgeeknerd/cur-php-jed)
+<!-- * [ ] [PHP Jedi.](https://github.com/Devsgeeknerd/cur-php-jed) -->
 <!-- * [ ] [Produtividade Para Programadores.](https://github.com/Devsgeeknerd/cur-pro-par-pro) -->
 <!-- * [ ] [React.js Ninja.](https://github.com/Devsgeeknerd/cur-rea-nin) -->
 <!-- * [ ] [SEO Para sites WordPress.](https://github.com/Devsgeeknerd/cur-seo-par-sit-wp) -->
