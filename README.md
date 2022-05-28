@@ -61,7 +61,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- PROJETOS DOS CURSOS -->
 ## :mortar_board: **PROJETOS DOS CURSOS**
 
-* [ ] DevsPortal.
+<!-- * [ ] DevsPortal. -->
 
 <!-- TREINAMENTOS -->
 <!-- ## **TREINAMENTOS** -->
