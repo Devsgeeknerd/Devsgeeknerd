@@ -69,7 +69,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] WordPress.
 
 <!-- WORKSHOPS -->
-## **PROJETOS DOS WORKSHOPS**
+<!-- ## **PROJETOS DOS WORKSHOPS** -->
 
 <!-- O QUE APRENDI -->
 <!-- ## **O QUE APRENDI** -->
