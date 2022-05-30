@@ -112,7 +112,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- PERSEVERANÇA -->
 ### *FORÇA DE TRABALHO*
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=ffffff&background=820ad1&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=22f55f&dates=ffff00&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=000000&background=820ad1&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=22f55f&dates=ffff00&hide_border=true)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 ### *ATIVIDADES*
