@@ -97,7 +97,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto")
 * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
 * [x] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac "Ver projeto")
-* [ ] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man "Ver projeto")
+* [x] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man "Ver projeto")
 * [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen)
 * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
 
