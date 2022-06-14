@@ -59,7 +59,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] [Wordpress Completo.](https://github.com/Devsgeeknerd/cur-wp-com) -->
 
 <!-- PROJETOS DOS CURSOS -->
-<!-- ## :mortar_board: **PROJETOS DOS CURSOS** -->
+<!-- ### :mortar_board: *PROJETOS DOS CURSOS* -->
 
 <!-- * [ ] DevsPortal. -->
 
@@ -68,8 +68,14 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 
 <!-- * [ ] WordPress. -->
 
+<!-- EVENTOS -->
+<!-- ## **EVENTOS ONLINE** -->
+
 <!-- WORKSHOPS -->
-<!-- ## **PROJETOS DOS WORKSHOPS** -->
+<!-- ### *WORKSHOPS* -->
+
+<!-- IMERSÕES -->
+<!-- ### *IMERSÕES* -->
 
 <!-- O QUE APRENDI -->
 <!-- ## **O QUE APRENDI** -->
