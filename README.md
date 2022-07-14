@@ -113,17 +113,17 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- GITHUB -->
 ### *GITHUB*
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&count_private=true&show_icons=true&title_color=ffffff&bg_color=DEG,fcb045,fd1d1d,820ad1&icon_color=000000&text_color=000000&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR)
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=3c68f4&show_icons=true&icon_color=bd0fea&text_color=2f3438&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
 <!-- PERSEVERANÇA -->
 ### *FORÇA DE TRABALHO*
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&stroke=000000&background=820ad1&ring=ffff00&fire=ff0000&currStreakNum=22f55f&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=22f55f&dates=ffff00&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff)
 
 <!-- GRÁFICO DE ATIVIDADES -->
 ### *ATIVIDADES*
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=ba4de3&color=ffffff&line=ffff00&point=000000&area=true&area_color=000000&hide_border=true&custom_title=Garfico%20de%20Commits)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20diario "Atividades diárias")
 
 <!-- WAKATIME -->
 ### *LINGUAGENS UTILIZADAS FREQUENTEMENTE*
