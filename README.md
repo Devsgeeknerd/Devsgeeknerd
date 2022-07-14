@@ -1,5 +1,5 @@
 <!-- TITULO -->
-# :nerd_face: **SEJAM MUITO BEM-VINDOS AO MEU PERFIL**
+# :nerd_face: SEJAM MUITO BEM-VINDOS AO MEU PERFIL
 
 <!-- DESCRIÇÃO -->
 Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver *Websites*, *Apps* e mais um pouco.
@@ -12,10 +12,10 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- CONTATOS -->
 
 <!-- CURSOS -->
-## :books: **CURSOS**
+## :computer: CURSOS
 
 <!-- * [ ] [Agência Web.](https://github.com/Devsgeeknerd/cur-age-web) -->
-* [ ] [Algoritmos & Lógica de Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
+* [ ] [Algoritmos & Lógica Para Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
 <!-- * [ ] [Android Arch.](https://github.com/Devsgeeknerd/cur-and-arc) -->
 <!-- * [ ] [Android Express.](https://github.com/Devsgeeknerd/cur-and-exp) -->
 <!-- * [ ] [Android Para iniciantes.](https://github.com/Devsgeeknerd/cur-and-par-ini) -->
@@ -96,7 +96,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### *FERRAMENTAS* -->
 
 <!-- PROJETOS PRÓPRIOS -->
-## **PROJETOS PRÓPRIOS**
+## PROJETOS PRÓPRIOS
 
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
@@ -108,32 +108,32 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
 
 <!-- MÉTRICAS -->
-## **MÉTRICAS**
+## MÉTRICAS
 
 <!-- GITHUB -->
-### *GITHUB*
+### GITHUB
 
 ![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=3c68f4&show_icons=true&icon_color=bd0fea&text_color=2f3438&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
 <!-- PERSEVERANÇA -->
-### *FORÇA DE TRABALHO*
+### FORÇA DE TRABALHO
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff)
 
 <!-- GRÁFICO DE ATIVIDADES -->
-### *ATIVIDADES*
+### ATIVIDADES
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20diario "Atividades diárias")
 
 <!-- WAKATIME -->
-### *LINGUAGENS UTILIZADAS FREQUENTEMENTE*
+### LINGUAGENS UTILIZADAS FREQUENTEMENTE
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
 </p>
 
 <!-- RANK DOS ARQUIVOS -->
-### *RANK DOS ARQUIVOS*
+### RANK DOS ARQUIVOS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=ba4de3&text_color=000000&card_width=600&custom_title=Rank%20dos%20Arquivos)
 
