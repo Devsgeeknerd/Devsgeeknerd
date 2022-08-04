@@ -1,5 +1,5 @@
 <!-- TITULO -->
-# :nerd_face: SEJAM MUITO BEM-VINDOS AO MEU PERFIL
+# :nerd_face: Sejam muito bem-vindos
 
 <!-- DESCRIÇÃO -->
 Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver *Websites*, *Apps* e mais um pouco.
