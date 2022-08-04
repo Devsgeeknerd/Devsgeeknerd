@@ -121,7 +121,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff)
 
 <!-- GRÁFICO DE ATIVIDADES -->
-### ATIVIDADES
+### Atividades
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades diárias")
 
