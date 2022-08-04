@@ -84,7 +84,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### Linguagens -->
 
 <!-- METODOLOGIAS -->
-<!-- ### *METODOLOGIAS* -->
+<!-- ### Metodologias -->
 
 <!-- FRAMEWORKS -->
 <!-- ### *FRAMEWORKS* -->
