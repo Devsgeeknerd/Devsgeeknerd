@@ -144,7 +144,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=EstrelasS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
