@@ -69,7 +69,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] WordPress. -->
 
 <!-- EVENTOS -->
-<!-- ## **EVENTOS ONLINE** -->
+<!-- ## Eventos online -->
 
 <!-- WORKSHOPS -->
 <!-- ### *WORKSHOPS* -->
