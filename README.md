@@ -126,7 +126,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades diárias")
 
 <!-- WAKATIME -->
-### LINGUAGENS UTILIZADAS FREQUENTEMENTE
+### Linguagens utilizadas frequentemente
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
