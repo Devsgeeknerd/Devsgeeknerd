@@ -96,7 +96,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### Ferramentas -->
 
 <!-- PROJETOS PRÓPRIOS -->
-## PROJETOS PRÓPRIOS
+## Projetos próprios
 
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
