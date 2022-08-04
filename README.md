@@ -29,7 +29,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] [Desenvolvimento Web — Completo.](https://github.com/Devsgeeknerd/cur-des-web-com) -->
 <!-- * [ ] [Desenvolvimento Web — Responsivo & Completo.](https://github.com/Devsgeeknerd/cur-des-web-res-com) -->
 <!-- * [ ] [Desenvolvimento Web — Do Zero ao Primeiro Projeto.](https://github.com/Devsgeeknerd/cur-des-web-zer-pri-pro) -->
-<!-- * [ ] [Design de Aplicativos.](https://github.com/Devsgeeknerd/cur-des-apl) -->
+<!-- * [ ] [Design Para Aplicativos.](https://github.com/Devsgeeknerd/cur-des-par-apl) -->
 <!-- * [ ] [Design Para Web.](https://github.com/Devsgeeknerd/cur-des-par-web) -->
 <!-- * [ ] [Front-end — 2.0.](https://github.com/Devsgeeknerd/cur-fro-end) -->
 <!-- * [ ] [Full Stack](https://github.com/Devsgeeknerd/cur-ful-sta) -->
