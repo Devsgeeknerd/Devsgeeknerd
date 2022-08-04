@@ -148,6 +148,6 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
