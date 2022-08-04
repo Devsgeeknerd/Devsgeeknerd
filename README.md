@@ -75,7 +75,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### Workshops -->
 
 <!-- IMERSÕES -->
-<!-- ### *IMERSÕES* -->
+<!-- ### Imersões -->
 
 <!-- O QUE APRENDI -->
 <!-- ## **O QUE APRENDI** -->
