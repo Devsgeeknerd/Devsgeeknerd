@@ -108,7 +108,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
 
 <!-- MÉTRICAS -->
-## MÉTRICAS
+## Métricas
 
 <!-- GITHUB -->
 ### GITHUB
