@@ -142,7 +142,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de visitas")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=plastic&label=Observadores&labelColor=f9e64f "Total de observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=plastic&label=EstrelasS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
