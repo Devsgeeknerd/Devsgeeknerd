@@ -12,7 +12,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- CONTATOS -->
 
 <!-- CURSOS -->
-## :computer: CURSOS
+## :computer: Cursos
 
 <!-- * [ ] [Agência Web.](https://github.com/Devsgeeknerd/cur-age-web) -->
 * [ ] [Algoritmos & Lógica Para Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
