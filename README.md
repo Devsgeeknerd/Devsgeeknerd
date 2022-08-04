@@ -90,7 +90,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### Frameworks -->
 
 <!-- BIBLIOTECAS -->
-<!-- ### *BIBLIOTECAS* -->
+<!-- ### Bibliotecas -->
 
 <!-- FERRAMENTAS -->
 <!-- ### FERRAMENTAS -->
