@@ -80,7 +80,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- ### Imersões -->
 
 <!-- O QUE APRENDI -->
-## O que aprendi
+## O que Aprendi
 
 <!-- LINGUAGENS -->
 <!-- ### Linguagens -->
