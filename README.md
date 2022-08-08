@@ -100,7 +100,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!-- PROJETOS PRÓPRIOS -->
-## Projetos próprios
+## Projetos Próprios
 
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
