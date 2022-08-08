@@ -120,7 +120,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 ![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=3c68f4&show_icons=true&icon_color=bd0fea&text_color=2f3438&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
 <!-- PERSEVERANÇA -->
-### Foco em persistência
+### Foco em Persistência
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff)
 
