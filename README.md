@@ -74,7 +74,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- WORKSHOPS -->
 ### Workshops
 
-* [Projeto — Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
+* [ ] [Projeto — Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
 
 <!-- IMERSÕES -->
 <!-- ### Imersões -->
