@@ -69,15 +69,9 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- * [ ] WordPress. -->
 
 <!-- EVENTOS -->
-## Eventos Online
-
-<!-- WORKSHOPS -->
-### Workshops
+## Projetos de Eventos Online
 
 * [ ] [Projeto — Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
-
-<!-- IMERSÕES -->
-<!-- ### Imersões -->
 
 <!-- O QUE APRENDI -->
 ## O que Aprendi
