@@ -71,7 +71,9 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- EVENTOS -->
 ## Projetos de Eventos Online
 
-* [ ] [Projeto — Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
+* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
+* [ ] [Mundo Invetido.](https://github.com/Devsgeeknerd/pro-mun-inv "Ver projeto")
+* [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod "Privado")
 
 <!-- O QUE APRENDI -->
 ## O que Aprendi
