@@ -73,7 +73,6 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
 * [ ] [Mundo Invetido.](https://github.com/Devsgeeknerd/pro-mun-inv "Ver projeto")
-* [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod "Privado")
 
 <!-- O QUE APRENDI -->
 ## O que Aprendi
@@ -98,6 +97,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologia, aprender coisas nov
 <!-- PROJETOS PRÓPRIOS -->
 ## Projetos Próprios
 
+* [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod "Em construcao")
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
 * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto")
