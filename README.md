@@ -12,54 +12,52 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Contatos -->
 
 <!-- Cursos -->
-## :computer: Cursos
+## :mortar_board: Cursos
 
 * [ ] [Algoritmos & Lógica Para Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-pro-bas-ava)
 
-<!-- PROJETOS DOS CURSOS -->
-<!-- ### :mortar_board: Projetos dos Cursos -->
+<!-- Projetos dos Cursos -->
+<!-- ### :construction: Projetos dos Cursos -->
 
 <!-- * [ ] DevsPortal. -->
 
-<!-- TREINAMENTOS -->
-<!-- ## Treinamentos -->
+<!-- Treinamentos -->
+<!-- ## :muscle: Treinamentos -->
 
 <!-- * [ ] WordPress. -->
 
-<!-- EVENTOS -->
-## Eventos Online
+<!-- Eventos -->
+## :zap: Projetos de Eventos Online
 
-<!-- WORKSHOPS -->
-### Workshops
+* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
+* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv)
 
-* [ ] [Projeto — Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
-
-<!-- IMERSÕES -->
-<!-- ### Imersões -->
-
-<!-- O QUE APRENDI -->
+<!-- Meu Aprendizado -->
 ## O que Aprendi
 
-<!-- LINGUAGENS -->
+<!-- Linguagens -->
 <!-- ### Linguagens -->
 
-<!-- METODOLOGIAS -->
+<!-- Metologias -->
 <!-- ### Metodologias -->
 
-<!-- FRAMEWORKS -->
+<!-- Frameworks -->
 <!-- ### Frameworks -->
 
-<!-- BIBLIOTECAS -->
+<!-- Bibliotecas -->
 <!-- ### Bibliotecas -->
 
-<!-- FERRAMENTAS -->
+<!-- Ferramentas -->
 ### Ferramentas
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=purple&labelColor=f9e64f "Visual Studio Code")
 
-<!-- PROJETOS PRÓPRIOS -->
-## Projetos Próprios
+<!-- Projetos Próprios -->
+## :dart: Projetos Próprios
 
+* [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-code)
+* [ ] [Devslinks.](https://github.com/devsgeeknerd/pro-dev-lin)
+* [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-md)
 * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
 * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
 * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto")
@@ -69,13 +67,13 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 * [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen)
 * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
 
-<!-- MÉTRICAS -->
-## Métricas
+<!-- Métricas -->
+## :bar_chart: Métricas
 
-<!-- GITHUB -->
+<!-- GitHub -->
 ### GitHub
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=3c68f4&show_icons=true&icon_color=bd0fea&text_color=2f3438&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=0000ff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=00009f&show_icons=true&icon_color=800080&text_color=1e2327&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=007bff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
 <!-- PERSEVERANÇA -->
 ### Foco em Persistência
