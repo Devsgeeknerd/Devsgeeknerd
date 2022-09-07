@@ -75,29 +75,29 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 ![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=00009f&show_icons=true&icon_color=800080&text_color=1e2327&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=007bff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
-<!-- PERSEVERANÇA -->
+<!-- Perseverança -->
 ### Foco em Persistência
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff)
 
-<!-- GRÁFICO DE ATIVIDADES -->
+<!-- Gráfico de Atividades -->
 ### Atividades
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades diárias")
 
-<!-- WAKATIME -->
+<!-- Wakatime -->
 ### Linguagens Utilizadas Frequentemente
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
 </p>
 
-<!-- RANK DOS ARQUIVOS -->
+<!-- Rank dos Arquivos -->
 ### Rank dos Arquivos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=ba4de3&text_color=000000&card_width=600&custom_title=Rank%20dos%20Arquivos)
 
-<!-- INFORMAÇÕES -->
+<!-- Informações -->
 ## Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de visitas")
