@@ -31,7 +31,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto")
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv)
-* [ ] [Portfolio v1](https://github.com/Devsgeeknerd/pro-pot-v1)
+* [ ] [Portfolio v1](https://github.com/Devsgeeknerd/pro-por-v1)
 
 <!-- Meu Aprendizado -->
 ## O que Aprendi
