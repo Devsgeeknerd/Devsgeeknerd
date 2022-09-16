@@ -59,14 +59,14 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 * [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-code)
 * [ ] [Devslinks.](https://github.com/devsgeeknerd/pro-dev-lin)
 * [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-md)
-* [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto")
-* [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto")
-* [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto")
+<!-- * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto") -->
+<!-- * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto") -->
+<!-- * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto") -->
 * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
-* [x] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac "Ver projeto")
-* [x] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man "Ver projeto")
-* [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen)
-* [ ] [Par.](https://github.com/Devsgeeknerd/pro-par)
+<!-- * [x] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac "Ver projeto") -->
+<!-- * [x] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man "Ver projeto") -->
+<!-- * [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen) -->
+<!-- * [ ] [Par.](https://github.com/Devsgeeknerd/pro-par) -->
 
 <!-- Métricas -->
 ## :bar_chart: Métricas
