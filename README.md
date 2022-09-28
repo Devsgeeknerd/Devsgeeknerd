@@ -13,6 +13,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ## Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
+&nbsp;
+[![Email](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
