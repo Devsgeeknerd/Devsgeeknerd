@@ -10,6 +10,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 > :wink: Pense duas vezes e codifiquem uma!
 
 <!-- Contatos -->
+## Contatos
+
+[![Gmail](https://img.shields.io/badge/Gmail-c14438.svg?style=plastic&logo=Gmail&logoColor=red&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
@@ -51,6 +54,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Ferramentas -->
 ### Ferramentas
 
+![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Visual Studio Code")
+&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=purple&labelColor=f9e64f "Visual Studio Code")
 
 <!-- Aprendendo -->
