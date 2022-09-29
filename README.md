@@ -56,7 +56,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Ferramentas -->
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Visual Studio Code")
+![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Git")
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=purple&labelColor=f9e64f "Visual Studio Code")
 
