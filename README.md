@@ -65,7 +65,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=purple&labelColor=f9e64f "Visual Studio Code")
 
 <!-- Aprendendo -->
-#### Estou Aprendendo
+## Estou Aprendendo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=javascript&logoColor=000000 "JavaScript")
 
