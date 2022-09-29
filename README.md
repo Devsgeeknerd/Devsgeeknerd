@@ -99,7 +99,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- GitHub -->
 ### GitHub
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,79e2ff,ff904e,ff5982&title_color=00009f&show_icons=true&icon_color=800080&text_color=1e2327&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=007bff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,007bff,ff904e,ff5982&title_color=00009f&show_icons=true&icon_color=800080&text_color=1e2327&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=007bff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
 <!-- Perseverança -->
 ### Foco em Persistência
