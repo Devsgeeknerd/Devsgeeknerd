@@ -75,6 +75,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 ![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=react&logoColor=000000 "React")
 &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
 
 <!-- Metologias -->
 <!-- ### Metodologias -->
