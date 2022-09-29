@@ -68,9 +68,6 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
-<!-- Linguagens -->
-### Linguagens
-
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=javascript&logoColor=000000 "JavaScript")
 &nbsp;
 ![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=react&logoColor=000000 "React")
