@@ -44,6 +44,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Linguagens -->
 ### Linguagens
 
+![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=ffffff "HTML 5")
+
 <!-- Metologias -->
 <!-- ### Metodologias -->
 
