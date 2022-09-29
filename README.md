@@ -71,6 +71,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Linguagens -->
 ### Linguagens
 
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=javascript&logoColor=000000 "JavaScript")
+
 <!-- Metologias -->
 <!-- ### Metodologias -->
 
