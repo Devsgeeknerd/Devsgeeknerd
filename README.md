@@ -42,7 +42,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ## O que Aprendi
 
 <!-- Linguagens -->
-<!-- ### Linguagens -->
+### Linguagens
 
 <!-- Metologias -->
 <!-- ### Metodologias -->
