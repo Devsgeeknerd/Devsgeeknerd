@@ -47,6 +47,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=ffffff "HTML 5")
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=ffffff "CSS 3")
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=javascript&logoColor=000000 "JavaScript")
+
 <!-- Metologias -->
 <!-- ### Metodologias -->
 
