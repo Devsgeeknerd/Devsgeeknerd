@@ -74,33 +74,6 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
 
-<!-- Frameworks -->
-<!-- ### Frameworks -->
-
-<!-- Bibliotecas -->
-<!-- ### Bibliotecas -->
-
-<!-- Ferramentas -->
-<!-- ### Ferramentas -->
-
-<!-- Interesse -->
-<!-- ## Tenho Interesse -->
-
-<!-- Linguagens -->
-<!-- ### Linguagens -->
-
-<!-- Metologias -->
-<!-- ### Metodologias -->
-
-<!-- Frameworks -->
-<!-- ### Frameworks -->
-
-<!-- Bibliotecas -->
-<!-- ### Bibliotecas -->
-
-<!-- Ferramentas -->
-<!-- ### Ferramentas -->
-
 <!-- Projetos Próprios -->
 ## :dart: Projetos Próprios
 
