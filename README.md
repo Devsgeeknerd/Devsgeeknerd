@@ -31,13 +31,6 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 <!-- * [ ] WordPress. -->
 
-<!-- Eventos -->
-## :zap: Projetos de Eventos Online
-
-* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto") :construction:
-* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
-* [ ] [Portfolio v1](https://github.com/Devsgeeknerd/pro-por-v1) :construction:
-
 <!-- Meu Aprendizado -->
 ## O que Aprendi
 
@@ -76,7 +69,14 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
 
-<!-- Projetos Próprios -->
+<!-- Eventos -->
+## :zap: Projetos de Eventos Online
+
+* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto") :construction:
+* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
+* [ ] [Portfolio v1](https://github.com/Devsgeeknerd/pro-por-v1) :construction:
+
+<!-- Próprios -->
 ## :dart: Projetos Próprios
 
 * [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-code) :construction:
@@ -85,7 +85,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- * [x] [Dia de Sorte.](https://github.com/Devsgeeknerd/pro-dia-sor "Ver projeto") -->
 <!-- * [x] [Dupla Sena.](https://github.com/Devsgeeknerd/pro-dup-sen "Ver projeto") -->
 <!-- * [x] [Ímpar.](https://github.com/Devsgeeknerd/pro-imp "Ver projeto") -->
-* [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik) :construction:
+<!-- * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik) :construction: -->
 <!-- * [x] [Loto Fácil.](https://github.com/Devsgeeknerd/pro-lot-fac "Ver projeto") -->
 <!-- * [x] [Loto Mania.](https://github.com/Devsgeeknerd/pro-lot-man "Ver projeto") -->
 <!-- * [ ] [Mega Sena.](https://github.com/Devsgeeknerd/pro-meg-sen) -->
@@ -116,10 +116,10 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
 </p>
 
-<!-- Rank dos Arquivos -->
-### Rank dos Arquivos
+<!-- Rank dos Linguagens -->
+### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=ba4de3&text_color=000000&card_width=600&custom_title=Rank%20dos%20Arquivos "Rank dos Arquivos")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&layout=default&langs_count=10&title_color=000000&bg_color=ba4de3&text_color=000000&card_width=600&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Informações -->
 ## Informações
