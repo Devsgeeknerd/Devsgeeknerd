@@ -67,6 +67,10 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Git")
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=0086d1&labelColor=f9e64f "Visual Studio Code")
+&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-007bff.svg?&style=plastic&logo=Yarn&logoColor=0&labelColor=f9e64f "Yarn")
+&nbsp;
+![Exercism](https://img.shields.io/badge/Exercism-007bff.svg?&style=plastic&logo=Exercism&logoColor=0&labelColor=f9e64f "Exercism")
 
 <!-- Nuvem -->
 <!-- ### Nuvem -->
