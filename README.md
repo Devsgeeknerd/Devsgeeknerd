@@ -79,6 +79,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ### Educação
 
 ![Exercism](https://img.shields.io/badge/Exercism-007bff.svg?&style=plastic&logo=Exercism&logoColor=0&labelColor=ffffff "Exercism")
+&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-007bff.svg?&style=plastic&logo=Udemy&logoColor=0&labelColor=ffffff "Udemy")
 
 <!-- Aprendendo -->
 ## Estou Aprendendo
