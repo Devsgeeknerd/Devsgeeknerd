@@ -12,11 +12,13 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Contatos -->
 ## Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
+[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=000&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Instagram.](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
+[![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=000&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-007bff)]()
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
