@@ -70,7 +70,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- ### Nuvem -->
 
 <!-- Base de Dados -->
-### Base de Dados
+<!-- ### Base de Dados -->
 
 <!-- Aprendendo -->
 ## Estou Aprendendo
