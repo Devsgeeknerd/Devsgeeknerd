@@ -48,7 +48,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 ![Markdown](https://img.shields.io/badge/Markdown-007bff.svg?&style=plastic&logo=Markdown&logoColor=000000&labelColor=f9e64f "Markdown")
 &nbsp;
-![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=0000000&labelColor=f9e64f "HTML 5")
+![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=000000&labelColor=f9e64f "HTML 5")
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=000000&labelColor=f9e64f "CSS 3")
 
@@ -64,7 +64,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Ferramentas -->
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0000000&labelColor=f9e64f "Git")
+![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=000000&labelColor=f9e64f "Git")
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=000000&labelColor=f9e64f "Visual Studio Code")
 &nbsp;
