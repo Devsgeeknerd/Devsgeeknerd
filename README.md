@@ -12,15 +12,17 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Contatos -->
 ## Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
+[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=000000&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=0&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
+[![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=000000&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=0&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Entrar em Contato")
+[![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=000000&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd)
+[![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd "Entre em Contato")
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-007bff.svg?style=plastic&logo=WhatsApp&logoColor=000000&labelColor=f9e64f)](https:// "Em breve!")
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
@@ -43,9 +45,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Linguagens -->
 ### Linguagens
 
-![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=ffffff "HTML 5")
+![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=0&labelColor=f9e64f "HTML 5")
 &nbsp;
-![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=ffffff "CSS 3")
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=000000&labelColor=f9e64f "CSS 3")
 
 <!-- Metologias -->
 <!-- ### Metodologias -->
@@ -104,7 +106,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ## :bar_chart: Métricas
 
 <!-- GitHub -->
-### GitHub
+### ![GitHub](https://img.shields.io/badge/GitHub-007bff.svg?&style=plastic&logo=GitHub&logoColor=000000&labelColor=f9e64f)
 
 ![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&bg_color=DEG,f07bff,ff904e,ff5982&title_color=00009f&show_icons=true&icon_color=ffffff&text_color=1e2327&count_private=true&include_all_commits=true&cache_seconds=10800&line_height=30&border_color=007bff&border_radius=18&card_width=600&locale=pt-BR "Métricas do GitHub")
 
@@ -119,7 +121,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades Diárias")
 
 <!-- Wakatime -->
-### ![Wakatime](https://img.shields.io/badge/Wakatime-007bff.svg?&style=plastic&logo=Wakatime&logoColor= "Linguagens usadas com frequência")
+### ![Wakatime](https://img.shields.io/badge/Wakatime-007bff.svg?&style=plastic&logo=Wakatime&logoColor=000000&labelColor=f9e64f "Linguagens usadas com frequência")
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
