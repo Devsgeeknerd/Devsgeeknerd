@@ -72,6 +72,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Base de Dados -->
 <!-- ### Base de Dados -->
 
+<!-- Design -->
+<!-- ### Design -->
+
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
