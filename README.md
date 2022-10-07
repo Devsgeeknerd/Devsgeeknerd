@@ -66,6 +66,12 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=0086d1&labelColor=f9e64f "Visual Studio Code")
 
+<!-- Nuvem -->
+<!-- ### Nuvem -->
+
+<!-- Base de Dados -->
+### Base de Dados
+
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
