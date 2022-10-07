@@ -74,7 +74,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet "Ver projeto") :construction:
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
-* [ ] [My Teacher.]()
+* [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea) :construction:
 * [ ] []()
 * [ ] [Portfolio v1](https://github.com/Devsgeeknerd/pro-por-v1) :construction:
 
