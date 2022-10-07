@@ -18,7 +18,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=000&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-007bff)]()
+[![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=000&labelColor=f9e64f)]()
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
