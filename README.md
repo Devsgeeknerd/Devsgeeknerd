@@ -66,14 +66,14 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=javascript&logoColor=000000 "JavaScript")
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=JavaScript&logoColor=0&labelColor=000000 "JavaScript")
 
 <!-- Interesse -->
 ## Tenho Interesse
 
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=TypeScript&logoColor=0&labelColor=ffffff "TypeScript")
 &nbsp;
-![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=react&logoColor=000000 "React")
+![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=React&logoColor=0&labelColor=000000 "React")
 &nbsp;
 
 <!-- Eventos -->
@@ -119,7 +119,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades Diárias")
 
 <!-- Wakatime -->
-### Linguagens Utilizadas Frequentemente
+### ![Wakatime](https://img.shields.io/badge/Wakatime-007bff.svg?&style=plastic&logo=Wakatime&logoColor= "Linguagens usadas com frequência")
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="450" />
