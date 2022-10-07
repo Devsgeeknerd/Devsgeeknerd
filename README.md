@@ -79,6 +79,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 ## Estou Aprendendo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=JavaScript&logoColor=0&labelColor=000000 "JavaScript")
+&nbsp;
+![Figma](https://img.shields.io/badge/Figma-007bff.svg?&style=plastic&logo=Figma&logoColor=&labelColor=000000 "Figma")
 
 <!-- Interesse -->
 ## Tenho Interesse
