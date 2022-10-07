@@ -14,7 +14,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 [![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
 &nbsp;
-[![Email](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
+&nbsp;
+[![]()]()
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
@@ -65,9 +67,10 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Interesse -->
 ## Tenho Interesse
 
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
+&nbsp;
 ![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=react&logoColor=000000 "React")
 &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
 
 <!-- Eventos -->
 ## :zap: Projetos de Eventos Online
