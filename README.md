@@ -20,7 +20,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=000000&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd "Entre em Contato")
+[![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd "Entrar em Contato")
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-007bff.svg?style=plastic&logo=WhatsApp&logoColor=000000&labelColor=f9e64f)](https:// "Em breve!")
 &nbsp;
@@ -48,7 +48,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 ![Markdown](https://img.shields.io/badge/Markdown-007bff.svg?&style=plastic&logo=Markdown&logoColor=000000&labelColor=f9e64f "Markdown")
 &nbsp;
-![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=0&labelColor=f9e64f "HTML 5")
+![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=0000000&labelColor=f9e64f "HTML 5")
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=000000&labelColor=f9e64f "CSS 3")
 
@@ -64,13 +64,13 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Ferramentas -->
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Git")
+![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0000000&labelColor=f9e64f "Git")
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=0086d1&labelColor=f9e64f "Visual Studio Code")
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=000000&labelColor=f9e64f "Visual Studio Code")
 &nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-007bff.svg?&style=plastic&logo=Yarn&logoColor=0&labelColor=f9e64f "Yarn")
 &nbsp;
-![Exercism](https://img.shields.io/badge/Exercism-007bff.svg?&style=plastic&logo=Exercism&logoColor=0&labelColor=f9e64f "Exercism")
+![Xampp](https://img.shields.io/badge/Xampp-007bff.svg?&style=plastic&logo=Xampp&logoColor=000000&labelColor=f9e64f "Xampp")
 
 <!-- Nuvem -->
 <!-- ### Nuvem -->
@@ -84,9 +84,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Educação -->
 ### Educação
 
-![Exercism](https://img.shields.io/badge/Exercism-007bff.svg?&style=plastic&logo=Exercism&logoColor=0&labelColor=ffffff "Exercism")
+![Exercism](https://img.shields.io/badge/Exercism-007bff.svg?&style=plastic&logo=Exercism&logoColor=000000&labelColor=f9e64f "Exercism")
 &nbsp;
-![Udemy](https://img.shields.io/badge/Udemy-007bff.svg?&style=plastic&logo=Udemy&logoColor=0&labelColor=ffffff "Udemy")
+![Udemy](https://img.shields.io/badge/Udemy-007bff.svg?&style=plastic&logo=Udemy&logoColor=000&labelColor=f9e64f "Udemy")
 
 <!-- Aprendendo -->
 ## Estou Aprendendo
