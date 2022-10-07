@@ -23,7 +23,8 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 [![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd "Entre em Contato")
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-007bff.svg?style=plastic&logo=WhatsApp&logoColor=000000&labelColor=f9e64f)](https:// "Em breve!")
-
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-007bff.svg?style=plastic&logo=About.me&logoColor=000000&labelColor=f9e64f)](https:// "Em breve!")
 <!-- Cursos -->
 ## :mortar_board: Cursos
 
