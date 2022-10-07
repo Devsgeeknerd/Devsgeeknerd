@@ -12,13 +12,15 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Contatos -->
 ## Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=000&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
+[![Gmail](https://img.shields.io/badge/Gmail-007bff.svg?style=plastic&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Entrar em Contato")
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=000&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff.svg?style=plastic&logo=LinkedIn&logoColor=0&labelColor=f9e64f)](https://www.linkedin.com/in/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=000&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
+[![Instagram](https://img.shields.io/badge/Instagram-007bff.svg?style=plastic&logo=Instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Entrar em Contato")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=000&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Entrar em Contato")
+[![Facebook](https://img.shields.io/badge/Facebook-007bff.svg?style=plastic&logo=Facebook&logoColor=0&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Entrar em Contato")
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-007bff.svg?style=plastic&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://)
 
 <!-- Cursos -->
 ## :mortar_board: Cursos
@@ -59,7 +61,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 ![Git](https://img.shields.io/badge/Git-007bff.svg?style=plastic&logo=Git&logoColor=0&labelColor=f9e64f "Git")
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=purple&labelColor=f9e64f "Visual Studio Code")
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007bff.svg?style=plastic&logo=Visual-studio-code&logoColor=0086d1&labelColor=f9e64f "Visual Studio Code")
 
 <!-- Aprendendo -->
 ## Estou Aprendendo
@@ -69,7 +71,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Interesse -->
 ## Tenho Interesse
 
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=plastic&logo=typescript&logoColor=000000)
 &nbsp;
 ![React](https://img.shields.io/badge/React%20-61dbfb.svg?&style=plastic&logo=react&logoColor=000000 "React")
 &nbsp;
