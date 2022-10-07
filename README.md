@@ -75,6 +75,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Design -->
 <!-- ### Design -->
 
+<!-- Educação -->
+### Educação
+
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
