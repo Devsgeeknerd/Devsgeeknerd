@@ -48,9 +48,6 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 
 ![Markdown](https://img.shields.io/badge/Markdown-007bff.svg?&style=plastic&logo=Markdown&logoColor=000000&labelColor=f9e64f "Markdown")
 &nbsp;
-![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=000000&labelColor=f9e64f "HTML 5")
-&nbsp;
-![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=000000&labelColor=f9e64f "CSS 3")
 
 <!-- Metologias -->
 <!-- ### Metodologias -->
@@ -91,6 +88,10 @@ Sou um estudante ***Front-end*** apaixonado por tecnologia, aprender coisas nova
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
+![HTML](https://img.shields.io/badge/HTML%20-%23e34f26.svg?&style=plastic&logo=html5&logoColor=000000&labelColor=f9e64f "HTML 5")
+&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=000000&labelColor=f9e64f "CSS 3")
+&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f7df1e.svg?&style=plastic&logo=JavaScript&logoColor=0&labelColor=000000 "JavaScript")
 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-007bff.svg?&style=plastic&logo=Figma&logoColor=0&labelColor=000000 "Figma")
