@@ -110,7 +110,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- Perseverança -->
 ### Foco em Persistência
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff "Foco em Persistência")
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff&date_format=d%20-%20F[,Y]&locale=pt-br "Foco em Persistência")
 
 <!-- Gráfico de Atividades -->
 ### Atividades
