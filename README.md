@@ -79,7 +79,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-008000.svg?style=p&logo=TypeScript&logoColor=0&labelColor=f9e64f)
 &nbsp;
-![React](https://img.shields.io/badge/React.js-f9e64f.svg?style=p&logo=React&logoColor=0&labelColor=008000)
+![React](https://img.shields.io/badge/React.js-008000.svg?style=p&logo=React&logoColor=0&labelColor=f9e64f)
 &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-008000.svg?style=p&logo=Flutter&logoColor=45d1fd&labelColor=f9e64f)
 
@@ -87,6 +87,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ## :zap: Projetos de Eventos Online
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet) :construction:
+* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-spo) :construction:
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea) :construction:
 * [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra) :construction:
