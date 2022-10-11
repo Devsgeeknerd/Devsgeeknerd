@@ -106,17 +106,17 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- GitHub -->
 ### ![GitHub](https://img.shields.io/badge/GitHub-008000.svg?style=p&logo=Github&logoColor=1e2327&labelColor=f9e64f)
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&count_private=true&cache_seconds=14400&line_height=30&border_radius=21&border_color=0000ff&card_width=846&locale=pt-BR "Métricas do GitHub")
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&count_private=true&cache_seconds=14400&line_height=30&border_radius=21&border_color=0000ff&card_width=500&locale=pt-BR "Métricas do GitHub")
 
 <!-- Perseverança -->
 ### Foco em Persistência
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff&date_format=d%20-%20F[,Y]&locale=pt-br "Foco em Persistência")
 
-<!-- Gráfico de Atividades -->
-### Atividades
+<!-- Rank dos Linguagens -->
+### Rank das Linguagens
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades Diárias")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=ffffff&bg_color=ba4de3&text_color=000000&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Wakatime -->
 ### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
@@ -125,10 +125,10 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="846" height="100%" />
 </p>
 
-<!-- Rank dos Linguagens -->
-### Rank das Linguagens
+<!-- Gráfico de Atividades -->
+### Atividades
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=ffffff&bg_color=ba4de3&text_color=000000&card_width=846&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades Diárias")
 
 <!-- Informações -->
 ## Informações
