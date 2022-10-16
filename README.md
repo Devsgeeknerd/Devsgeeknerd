@@ -13,15 +13,20 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ## :writing_hand: Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-008000.svg?style=p&logo=Gmail&logoColor=0&labelColor=f9e64f)](mailto:vanderley.1109@gmail.com "Gmail")
+&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-008000.svg?style=p&logo=Telegram&logoColor=0&labelColor=f9e64f)](https://t.me/Devsgeeknerd "Telegram")
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-008000.svg?style=p&logo=WhatsApp&logoColor=0&labelColor=f9e64f)](https:// "Em breve!")
+&nbsp;
 [![Website](https://img.shields.io/badge/Website-008000.svg?style=p&logo=About.me&logoColor=0&labelColor=f9e64f)](https:// "Em breve!")
 
 <!-- Redes Sociais -->
 ## :handshake: Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f9e64f.svg?style=p&logo=LinkedIn&logoColor=0&labelColor=008000)](https://www.linkedin.com/Devsgeeknerd "LinkedIn")
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-008000.svg?style=p&logo=instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Instagram")
+&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-008000.svg?style=p&logo=Facebook&logoColor=0&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Facebook")
 
 <!-- Cursos -->
@@ -59,8 +64,11 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-008000.svg?style=p&logo=Git&logoColor=0&labelColor=f9e64f "Git")
+&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-008000.svg?&style=p&logo=Visual-studio-code&logoColor=23a6ea&labelColor=f9e64f "Visual Studio Code")
+&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-008000.svg?style=p&logo=Yarn&logoColor=0&labelColor=f9e64f "Yarn")
+&nbsp;
 ![Xampp](https://img.shields.io/badge/Xampp-008000.svg?style=p&logo=Xampp&logoColor=0&labelColor=f9e64f "Xampp")
 
 <!-- Aprendendo -->
@@ -88,6 +96,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet) :construction:
 * [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-spo) :construction:
+* [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat) :construction:
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea) :construction:
 * [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra) :construction:
