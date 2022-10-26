@@ -107,7 +107,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 * [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod) :construction:
 * [ ] [Devslinks.](https://github.com/Devsgeeknerd/pro-dev-lin) :construction:
 * [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-mar) :construction:
-* [x] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik) :construction:
+* [x] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
 
 <!-- Métricas -->
 ## :bar_chart: Métricas
