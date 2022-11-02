@@ -95,7 +95,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ## :zap: Projetos de Eventos Online
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet) :construction:
-* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-spo) :construction:
+* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp) :construction:
 * [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat) :construction:
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea) :construction:
@@ -120,12 +120,12 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- Perseverança -->
 ### Foco em Persistência
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=800080&stroke=ffffff&ring=33ff69&fire=fd1d1d&currStreakNum=79e2ff&currStreakLabel=79f3ff&sideNums=ffffff&sideLabels=ffff00&dates=ffffff&date_format=d%20-%20F[,Y]&locale=pt-br "Foco em Persistência")
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=008000&stroke=0000ff&ring=33ff69&fire=f9e64f&currStreakNum=ffffff&currStreakLabel=000077&sideNums=ffffff&sideLabels=000077&dates=ffffff "Foco em Persistência")
 
 <!-- Rank dos Linguagens -->
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=ffffff&bg_color=ba4de3&text_color=000000&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9e64f&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Wakatime -->
 ### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
@@ -137,7 +137,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- Gráfico de Atividades -->
 ### Atividades
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=00ff00&point=ffff00&area=true&area_color=000000&custom_title=Grafico%20de%20Commits%20Diario "Atividades Diárias")
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=f9e64f&color=000077&line=007bff&point=008000&area=true&area_color=000077&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
 
 <!-- Informações -->
 ## Informações
