@@ -125,7 +125,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- Rank dos Linguagens -->
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9e64f&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9b40a&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Wakatime -->
 ### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
