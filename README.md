@@ -118,9 +118,9 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=00f&icon_color=f9e64f&text_color=fff&count_private=true&cache_seconds=14400&line_height=30&border_radius=21&border_color=0000ff&card_width=500&locale=pt-BR "Métricas do GitHub")
 
 <!-- Perseverança -->
-### Foco em Persistência
+### Sequência de Ofensivas
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=008000&stroke=0000ff&ring=33ff69&fire=f9e64f&currStreakNum=ffffff&currStreakLabel=000077&sideNums=ffffff&sideLabels=000077&dates=ffffff "Foco em Persistência")
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=008000&stroke=0000ff&ring=33ff69&fire=f9e64f&currStreakNum=ffffff&currStreakLabel=000077&sideNums=ffffff&sideLabels=000077&dates=ffffff&locale=pt-br "Foco em Persistência")
 
 <!-- Rank dos Linguagens -->
 ### Rank das Linguagens
