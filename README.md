@@ -95,6 +95,7 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 ## :zap: Projetos de Eventos Online
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet) :construction:
+* [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop) :construction:
 * [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp) :construction:
 * [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat) :construction:
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
