@@ -2,7 +2,7 @@
 # :nerd_face: Sejam muito bem-vindos
 
 <!-- Descrição -->
-Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver *Apps*, *Software*, *Websites* e mais um pouco.
+Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver *Apps*, *Software*, *Websites* e mais um pouco.
 
 <!-- Citações -->
 > :heart: Resolva primeiro o problema e, em seguida, escreva o código.
