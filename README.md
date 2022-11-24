@@ -1,13 +1,13 @@
-<!-- Titulo -->
+<!-- Título -->
 # :nerd_face: Sejam muito bem-vindos
 
 <!-- Descrição -->
-Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas novas, escrever código, resolver problemas, automatizar coisas e desenvolver *Apps*, *Software*, *Websites* e mais um pouco.
+Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, resolver problemas, automatizar coias e desenvolver **Apps**, **Software**, **Websites** e mais um pouco.
 
 <!-- Citações -->
-> :heart: Resolva primeiro o problema e, em seguida, escreva o código.
+> :heart: Resolva primeiro o problema e, em seguida, escreva o código!
 
-> :wink: Pense duas vezes e codifiquem uma!
+> :wiki: Pense duas vezes e codifiquem uma!
 
 <!-- Contatos -->
 ## :writing_hand: Contatos
@@ -23,18 +23,18 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 <!-- Redes Sociais -->
 ## :handshake: Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f9e64f.svg?style=p&logo=LinkedIn&logoColor=0&labelColor=008000)](https://www.linkedin.com/Devsgeeknerd "LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f9e64f.svg?style=p&logo=LinkedIn&logoColor=0&labelColor=008000)](http://www.linkedin.com/in/devsgeeknerd "LinkedIn")
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-008000.svg?style=p&logo=instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Instagram")
+[![Instagram](https://img.shields.io/badge/Instagram-008000.svg?style=p&logo=Instagram&logoColor=0&labelColor=f9e64f)](https://instagram.com/Devsgeeknerd "Instagram")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-008000.svg?style=p&logo=Facebook&logoColor=0&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd "Facebook")
+[![Facebook](https://img.shields.io/badge/Facebook-008000.svg?style=p&logo=Facebook&logoColor=0&labelColor=f9e64f)](https://facebook.com/Devsgeeknerd)
 
 <!-- Cursos -->
 ## :man_student: Cursos
 
-* [ ] [Algoritmos & Lógica Para Programação — Do Básico ao Avançado.](https://github.com/Devsgeeknerd/cur-alg-log-par-pro-bas-ava) :construction:
+* [ ] [Algoritmos & Lógica Para Programação.](https://github.com/Devsgeeknerd/cur-alg-log-par-pro-bas-ava) :construction:
 
-<!-- Projetos dos Cursos -->
+<!-- Projetos dos Curso -->
 <!-- ### :mortar_board: Projetos dos Cursos -->
 
 <!-- Treinamentos -->
@@ -65,42 +65,46 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 
 ![Git](https://img.shields.io/badge/Git-008000.svg?style=p&logo=Git&logoColor=0&labelColor=f9e64f "Git")
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-008000.svg?&style=p&logo=Visual-studio-code&logoColor=23a6ea&labelColor=f9e64f "Visual Studio Code")
+![NPM](https://img.shields.io/badge/NPM-008000.svg?style=p&logo=NPM&logoColor=0&labelColor=f9e64f "NPM")
 &nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-008000.svg?style=p&logo=Yarn&logoColor=0&labelColor=f9e64f "Yarn")
 &nbsp;
-![Xampp](https://img.shields.io/badge/Xampp-008000.svg?style=p&logo=Xampp&logoColor=0&labelColor=f9e64f "Xampp")
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-008000.svg?style=p&logo=Visual-Studio-Code&logoColor=23a6ea&labelColor=f9e64f "Visual Studio Code")
 
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
-![HTML](https://img.shields.io/badge/HTML-008000.svg?style=p&logo=Html5&logoColor=0&labelColor=f9e64f)
+![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?style=p&logo=Kotlin&logoColor=0&labelColor=f9e64f "Kotlin")
 &nbsp;
-![CSS](https://img.shields.io/badge/CSS-f9e64f.svg?style=p&logo=Css3&logoColor=0&labelColor=008000)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-f9e64f.svg?style=p&logo=Javascript&logoColor=0&labelColor=008000)
-&nbsp;
-![Figma](https://img.shields.io/badge/Figma-008000.svg?style=p&logo=Figma&logoColor=0&labelColor=f9e64f)
+![Figma](https://img.shields.io/badge/Figma-008000.svg?style=p&logo=Figma&logoColor=0&labelColor=f9e64f "Figma")
 
 <!-- Interesse -->
 ## Tenho Interesse
 
-![TypeScript](https://img.shields.io/badge/TypeScript-008000.svg?style=p&logo=TypeScript&logoColor=0&labelColor=f9e64f)
+![HTML](https://img.shields.io/badge/HTML-008000.svg?style=p&logo=HTML5&logoColor=0&labelColor=f9e64f "HTML")
 &nbsp;
-![React](https://img.shields.io/badge/React.js-008000.svg?style=p&logo=React&logoColor=0&labelColor=f9e64f)
+![CSS](https://img.shields.io/badge/CSS-f9e64f.svg?style=p&logo=CSS3&logoColor=0&labelColor=008000 "CSS")
 &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-008000.svg?style=p&logo=Flutter&logoColor=45d1fd&labelColor=f9e64f)
+![JavaScript](https://img.shields.io/badge/JavaScript-f9e64f.svg?style=p&logo=JavaScript&logoColor=0&labelColor=008000 "JavaScript")
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-008000.svg?style=p&logo=TypeScript&logoColor=0&labelColor=f9e64f "TypeScript")
+&nbsp;
+![React](https://img.shields.io/badge/React-008000.svg?style=p&logo=React&logoColor=0&labelColor=f9e64f "React")
+&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-008000.svg?style=p&logo=React&logoColor=0&labelColor=f9e64f "React Native")
+&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-f9e64f.svg?style=p&logo=Flutter&logoColor=0&labelColor=008000 "Flutter")
 
 <!-- Eventos -->
 ## :zap: Projetos de Eventos Online
 
-* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet) :construction:
-* [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop) :construction:
-* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp) :construction:
-* [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat) :construction:
-* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv) :construction:
-* [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea) :construction:
-* [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra) :construction:
+* [ ] [Adote um Pet.](https://github.com/Devageeknerd/pro-ado-pet-eve-onl) :construction:
+* [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) :construction:
+* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp-eve-onl) :construction:
+* [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-eve-onl) :construction:
+* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) :construction:
+* [ ] [My Teacher.](https://githubh.com/Devsgeeknerd/pro-my-tea-eve-onl) :construction:
+* [ ] [Na Trave.](https:github.com/Decsgeeknerd/pro-na-tra-eve-onl) :construction:
 
 <!-- Próprios -->
 ## :dart: Projetos Próprios
@@ -108,51 +112,27 @@ Sou um estudante ***Front-end*** apaixonado por tecnologias, aprender coisas nov
 * [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod) :construction:
 * [ ] [Devslinks.](https://github.com/Devsgeeknerd/pro-dev-lin) :construction:
 * [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-mar) :construction:
-* [x] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik)
+* [ ] [Devslikeiro.](https://github.com/Devsgeeknerd/pro-dev-lik) :construction:
 
 <!-- Métricas -->
 ## :bar_chart: Métricas
 
 <!-- GitHub -->
-### ![GitHub](https://img.shields.io/badge/GitHub-008000.svg?style=p&logo=Github&logoColor=1e2327&labelColor=f9e64f)
+### ![GitHub](https://img.shields.io/badge/GitHub-008000.svg?style=p&logo=GitHub&logoColor=1e2327&labelColor=f9e64f "GitHUb")
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=00f&icon_color=f9e64f&text_color=fff&count_private=true&cache_seconds=14400&line_height=30&border_radius=21&border_color=0000ff&card_width=500&locale=pt-BR "Métricas do GitHub")
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
 
-<!-- Perseverança -->
-### Sequência de Ofensivas
+<!-- Foco -->
+### :fire: Ofensivas
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=008000&stroke=0000ff&ring=33ff69&fire=f9e64f&currStreakNum=ffffff&currStreakLabel=000077&sideNums=ffffff&sideLabels=000077&dates=ffffff&locale=pt-br "Foco em Persistência")
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=f9e64f&stroke=b45309&ring=1d4ed8&fire=be123c&currStreakNum=06b6d4&currStreakLabel=15803d&sideNums=a21caf&sideLabels=0369a1&dates=1e2327&locale=pt-br)
 
-<!-- Rank dos Linguagens -->
+<!-- Rank -->
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9b40a&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
-
-<!-- Wakatime -->
-### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
-
-<p align="center">
-    <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="100%" />
-</p>
-
-<!-- Gráfico de Atividades -->
-### Atividades
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=f9e64f&color=000077&line=007bff&point=008000&area=true&area_color=000077&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&bg_color=6b21a8&title_color=fafafa)
 
 <!-- Informações -->
 ## Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
-&nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
-&nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
-&nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
-&nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
-&nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
