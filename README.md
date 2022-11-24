@@ -130,8 +130,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- Rank -->
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&bg_color=6b21a8&title_color=fafafa)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9e64f&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 <!-- Informações -->
 ## Informações
 
