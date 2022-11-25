@@ -74,8 +74,6 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- Aprendendo -->
 ## Estou Aprendendo
 
-![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?style=p&logo=Kotlin&logoColor=0&labelColor=f9e64f "Kotlin")
-&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-008000.svg?style=p&logo=Figma&logoColor=0&labelColor=f9e64f "Figma")
 
 <!-- Interesse -->
@@ -94,6 +92,8 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 ![React Native](https://img.shields.io/badge/React%20Native-008000.svg?style=p&logo=React&logoColor=0&labelColor=f9e64f "React Native")
 &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-f9e64f.svg?style=p&logo=Flutter&logoColor=0&labelColor=008000 "Flutter")
+&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-008000.svg?style=p&logo=Kotlin&logoColor=0&labelColor=f9e64f "Kotlin")
 
 <!-- Eventos -->
 ## :zap: Projetos de Eventos Online
@@ -130,8 +130,33 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- Rank -->
 ### Rank das Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=000077&bg_color=f9e64f&text_color=1e2327&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+
+<!-- Wakatime -->
+### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
+
+<p align="center">
+    <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="100%" />
+</p>
+
+<!-- Gráfico de Atividades -->
+### Atividades
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=008080&color=ffffff&line=00ffff&point=ff00ff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
+
 <!-- Informações -->
 ## Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/Devsgeeknerd?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
