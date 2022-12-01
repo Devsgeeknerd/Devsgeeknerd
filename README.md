@@ -21,7 +21,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 [![Website](https://img.shields.io/badge/Website-008000.svg?style=p&logo=About.me&logoColor=0&labelColor=f9e64f)](https:// "Em breve!")
 
 <!-- Redes Sociais -->
-## :handshake: Redes Sociais
+## :handshake: Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f9e64f.svg?style=p&logo=LinkedIn&logoColor=0&labelColor=008000)](http://www.linkedin.com/in/devsgeeknerd "LinkedIn")
 &nbsp;
@@ -32,7 +32,11 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- Cursos -->
 ## :man_student: Cursos
 
-* [ ] [Algoritmos & Lógica Para Programação.](https://github.com/Devsgeeknerd/cur-alg-log-par-pro-bas-ava) :construction:
+* [ ] [Base.](https://github.com/Devsgeeknerd/cat-bas) :construction:
+* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) :construction:
+* [ ] [Back-end.](https://https://github.com/Devsgeeknerd/cat-bac-end) :construction:
+* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) :construction:
+* [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) :construction:
 
 <!-- Projetos dos Curso -->
 <!-- ### :mortar_board: Projetos dos Cursos -->
