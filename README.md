@@ -144,9 +144,9 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 </p>
 
 <!-- Gráfico de Atividades -->
-### Atividades
+<!-- ### Atividades -->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=008080&color=ffffff&line=00ffff&point=ff00ff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=008080&color=ffffff&line=00ffff&point=ff00ff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias") -->
 
 <!-- Informações -->
 ## Informações
