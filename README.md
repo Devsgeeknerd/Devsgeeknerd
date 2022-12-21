@@ -137,7 +137,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Wakatime -->
-### ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
+### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default)
 
 <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="100%" />
