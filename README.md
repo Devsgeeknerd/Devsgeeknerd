@@ -5,9 +5,9 @@
 Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, resolver problemas, automatizar coias e desenvolver **Apps**, **Software**, **Websites** e mais um pouco.
 
 <!-- Citações -->
-> :heart: Resolva primeiro o problema e, em seguida, escreva o código!
+> &#10084; Resolva primeiro o problema e, em seguida, escreva o código!
 
-> :wiki: Pense duas vezes e codifiquem uma!
+> &#129504; Pense duas vezes e codifiquem uma!
 
 <!-- Contatos -->
 ## :writing_hand: Contatos
