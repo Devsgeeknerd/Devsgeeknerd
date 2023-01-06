@@ -124,7 +124,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- GitHub -->
 ### ![GitHub](https://img.shields.io/badge/GitHub-008000.svg?style=p&logo=GitHub&logoColor=1e2327&labelColor=f9e64f "GitHUb")
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
+![Paulo Vanderley GitHub Static](https://github-readme-stats.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
 
 <!-- Foco -->
 ### &#128293; Ofensivas
