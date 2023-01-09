@@ -37,6 +37,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 * [ ] [Back-end.](https://https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
+* [ ] [Designer de Interação](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 
 <!-- Projetos dos Curso -->
 <!-- ### &#128193; Projetos dos Cursos -->
