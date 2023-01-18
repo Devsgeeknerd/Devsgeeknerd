@@ -33,11 +33,11 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 ## &#127891; Cursos
 
 * [ ] [Base.](https://github.com/Devsgeeknerd/cat-bas) &#128679;
-* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
-* [ ] [Back-end.](https://https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
-* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
-* [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
-* [ ] [Designer de Interação](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
+<!-- * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679; -->
+<!-- * [ ] [Back-end.](https://https://github.com/Devsgeeknerd/cat-bac-end) &#128679; -->
+<!-- * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679; -->
+<!-- * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679; -->
+<!-- * [ ] [Designer de Interação](https://github.com/Devsgeeknerd/cat-des-int) &#128679; -->
 
 <!-- Projetos dos Curso -->
 <!-- ### &#128193; Projetos dos Cursos -->
@@ -62,7 +62,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas, r
 <!-- Metodologias -->
 <!-- ### Metodologias -->
 
-<!-- Base de Dados -->
+<!-- Banco de Dados -->
 <!-- ### Base de Dados -->
 
 <!-- Ferramentas -->
