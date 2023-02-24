@@ -40,7 +40,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 
 <!-- Projetos dos Cursos -->
-### &#128193; Projetos dos Cursos
+<!-- ### &#128193; Projetos dos Cursos -->
 
 <!-- Aprendizado -->
 ## &#128099; O que Aprendi
