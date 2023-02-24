@@ -33,11 +33,11 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 ## &#127891; Cursos
 
 * [ ] [Base.](https://github.com/Devsgeeknerd/cat-bas) &#128679;
-<!-- * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679; -->
-<!-- * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679; -->
-<!-- * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679; -->
-<!-- * [ ] [Banco de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679; -->
-<!-- * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679; -->
+* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
+* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
+* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
+* [ ] [Banco de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
+* [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 
 <!-- Projetos dos Cursos -->
 ### &#128193; Projetos dos Cursos
@@ -48,7 +48,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 <!-- Linguagens -->
 ### Linguagens
 
-![Markdown](https://img.shields.io/badge/Markdown-000fff.svg?style=p&logo=Markdown&logoColor=ffffff&labelColor=800080)
+![Markdown](https://img.shields.io/badge/Markdown-000fff.svg?style=p&logo=Markdown&logoColor=ffffff&labelColor=800080 "Git")
 
 <!-- Frameworks -->
 <!-- ### Frameworks -->
@@ -65,7 +65,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 <!-- Ferramentas -->
 ### &#129520; Ferramentas
 
-![Git](https://img.shields.io/badge/Git-000fff.svg?styel=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
+![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
 &nbsp;
 ![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
 &nbsp;
@@ -117,6 +117,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 * [ ] [Devslinks.](https://github.com/Devsgeeknerd/pro-dev-lin) &#128679;
 * [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-mar) &#128679;
 * [ ] [Devslike.](https://github.com/Devsgeeknerd/pro-dev-lik) &#128679;
+* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she) &#128679;
 
 <!-- Métricas -->
 ## &#128202; Métricas
