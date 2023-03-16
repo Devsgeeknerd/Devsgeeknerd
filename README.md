@@ -77,25 +77,29 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 ## &#128218; Estou Aprendendo
 
 ![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080 "Figma")
-
-<!-- Interesse -->
-## &#128064; Tenho Interesse
-
+&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-000fff.svg?style=p&logo=HTML5&logoColor=ffffff&labelColor=800080 "HTML5")
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-000fff.svg?style=p&logo=CSS3&logoColor=ffffff&labelColor=800080 "CSS3")
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080 "JavaScript")
-&nbsp;
+
+<!-- Interesse -->
+## &#128064; Tenho Interesse
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
 &nbsp;
 ![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React")
 &nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
 &nbsp;
+![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080 "Dart")
+&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080 "Flutter")
 &nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080 "Kotlin")
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080 "Swift")
 
 <!-- Eventos -->
 ## &#9889; Projeto de Eventos Online
