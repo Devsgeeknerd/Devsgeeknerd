@@ -33,11 +33,11 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 ## &#127891; Cursos
 
 * [ ] [Base.](https://github.com/Devsgeeknerd/cat-bas) &#128679;
-* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
-* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
-* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
-* [ ] [Banco de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
-* [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
+<!-- * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679; -->
+<!-- * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679; -->
+<!-- * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679; -->
+<!-- * [ ] [Banco de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679; -->
+<!-- * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679; -->
 
 <!-- Projetos dos Cursos -->
 <!-- ### &#128193; Projetos dos Cursos -->
