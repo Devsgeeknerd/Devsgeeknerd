@@ -129,7 +129,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 <!-- GitHub -->
 ### ![GitHub](https://img.shields.io/badge/GitHub-000fff.svg?style=p&logo=GitHub&logoColor=ffffff&labelColor=800080)
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats-devs.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
+![Paulo Vanderley GitHub Static](https://github-readme-stats-wheat-zeta-39.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
 
 <!-- Foco -->
 ### &#128293; Ofensivas
@@ -139,7 +139,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 <!-- Rank -->
 ### &#127942; Rank das Linguagens
 
-![Top Langs](https://github-readme-stats-devs.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+![Top Langs](https://github-readme-stats-wheat-zeta-39.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
 <!-- Wakatime -->
 ### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
