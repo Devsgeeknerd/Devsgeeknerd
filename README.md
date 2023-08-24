@@ -118,11 +118,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 <!-- Próprios -->
 ## &#127919; Projetos Próprios
 
-* [ ] [Devscode.](https://github.com/Devsgeeknerd/pro-dev-cod) &#128679;
-* [ ] [Devslinks.](https://github.com/Devsgeeknerd/pro-dev-lin) &#128679;
-* [ ] [Devsmark.](https://github.com/Devsgeeknerd/pro-dev-mar) &#128679;
-* [ ] [Devslike.](https://github.com/Devsgeeknerd/pro-dev-lik) &#128679;
-* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/git-hub-che-she) &#128679;
+* [ ] [CodePad.](https://github.com/Devsgeeknerd/pro-cod-pad-pro) &#128679;
 
 <!-- Métricas -->
 ## &#128202; Métricas
