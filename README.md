@@ -122,7 +122,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 * [ ] [BioLinks.](https://github.com/Devsgeeknerd/pro-bio-lin-pro) &#128679;
 * [ ] [MarkPad.](https://github.com/Devsgeeknerd/pro-mar-pad-pro) &#128679;
 * [ ] [Likeiro.](https://github.com/Devsgeeknerd/pro-lik-pro) &#128679;
-* [ ] []() &#128679;
+* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#128679;
 <!-- Métricas -->
 ## &#128202; Métricas
 
