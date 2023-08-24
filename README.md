@@ -113,6 +113,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128679;
 * [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128679;
 * [ ] [Vakinha Burger.](https://github.com/Devsgeeknerd/pro-vak-bur-eve-onl) &#128679;
+* [ ] [BarberShop.](https://gihtub.com/Devsgeeknerd/pro-bar-eve-onl) &#128679;
 
 <!-- Próprios -->
 ## &#127919; Projetos Próprios
