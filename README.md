@@ -119,6 +119,7 @@ Sou um estudante ***Full Stack*** apaixonado por tecnologias, aprender coisas no
 ## &#127919; Projetos Próprios
 
 * [ ] [CodePad.](https://github.com/Devsgeeknerd/pro-cod-pad-pro) &#128679;
+* [ ] [BioLinks.](https://github.com/Devsgeeknerd/pro-bio-lin-pro) &#128679;
 
 <!-- Métricas -->
 ## &#128202; Métricas
