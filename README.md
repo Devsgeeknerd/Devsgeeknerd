@@ -65,23 +65,43 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 
 ![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
 &nbsp;
-![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080)
+![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "Npm")
 &nbsp;
-![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080)
+![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visial%20Studio%20Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080)
+![Visual Studio Code](https://img.shields.io/badge/Visial%20Studio%20Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080 "Visual Studio code")
 
 <!-- Aprendendo -->
 ## &#129504; Estou Aprendendo
 
-![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080)
+![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080 "Dart")
 &nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080)
+![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080 "Flutter")
 &nbsp;
-![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080)
+![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080 "Figma")
+&nbsp;
+![Api](https://img.shields.io/badge/RESTful-Api-000fff.svg?style=p&logo=&logoColor=ffffff&labelColor=800080)
 
 <!-- Interesse -->
 ## &#128161; Tenho Interesse
+
+&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![HTML](https://img.shields.io/badge/HTML-000fff.svg?style=p&logo=HTML5&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![CSS](https://img.shields.io/badge/CSS-000fff.svg?style=p&logo=CSS3&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
+&nbsp;
 
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
