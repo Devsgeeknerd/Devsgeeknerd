@@ -42,5 +42,26 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 <!-- Projetos dos Cursos -->
 ### &#128193; Projetos dos Cursos
 
+<!-- Aprendizados -->
+## &#128099; O que Aprendi
+
+<!-- Linguagens -->
+### Linguagens
+
+<!-- Frameworks -->
+### Frameworks
+
+<!-- Bibliotecas -->
+### Bibliotecas
+
+<!-- Metologias -->
+### Metologias
+
+<!-- Bancos de Dados -->
+### Base de Dados
+
+<!-- Ferramentas -->
+### &#129520; Ferramentas
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
