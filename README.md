@@ -139,6 +139,11 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=f9e64f&stroke=b45309&ring=1d4ed8&fire=be123c&currStreakNum=06b6d4&currStreakLabel=15803d&sideNums=a21caf&sideLabels=0369a1&dates=1e2327&locale=pt-br)
 
+<!-- Rank -->
+### &#127942; Rank das Linguagens
+
+![Top Langs](https://github-readme-stats-wheat-zeta-39.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
