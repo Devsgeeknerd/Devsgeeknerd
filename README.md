@@ -144,6 +144,18 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 
 ![Top Langs](https://github-readme-stats-wheat-zeta-39.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=10&title_color=fafbfc&bg_color=008080&text_color=f1f2f3&card_width=500&custom_title=Rank%20das%20Linguagens "Rank das Linguagens")
 
+<!-- Wakatime -->
+### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
+
+<p align="center">
+    <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="100%" />
+</p>
+
+<!-- Gráfico de Atividades
+### Atividades
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Devsgeeknerd&bg_color=008000&color=ffffff&line=00ffff&point=ff00ff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias") -->
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
