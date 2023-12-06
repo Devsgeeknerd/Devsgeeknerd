@@ -63,5 +63,13 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 <!-- Ferramentas -->
 ### &#129520; Ferramentas
 
+![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
+&nbsp;
+![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visial%20Studio%20Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080)
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
