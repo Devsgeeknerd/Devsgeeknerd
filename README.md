@@ -126,6 +126,9 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 * [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#128679;
 * [ ] [Devs Story Book.](https://github.com/Devsgeeknerd/pro-dev-sto-boo-pro) &#128679;
 
+<!-- Métricas -->
+## &#128202; Métricas
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
