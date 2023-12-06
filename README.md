@@ -27,7 +27,7 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/Devsgeeknerd "Instagram")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)]()
+[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
 
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
