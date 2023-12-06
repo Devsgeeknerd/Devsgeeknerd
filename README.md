@@ -134,6 +134,11 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 
 ![Paulo Vanderley GitHub Static](https://github-readme-stats-wheat-zeta-39.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
 
+<!-- Foco -->
+### &#128293; Ofensivas
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=f9e64f&stroke=b45309&ring=1d4ed8&fire=be123c&currStreakNum=06b6d4&currStreakLabel=15803d&sideNums=a21caf&sideLabels=0369a1&dates=1e2327&locale=pt-br)
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
