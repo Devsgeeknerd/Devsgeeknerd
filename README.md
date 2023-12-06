@@ -71,5 +71,14 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visial%20Studio%20Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080)
 
+<!-- Aprendendo -->
+## &#128218; Estou Aprendendo
+
+![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080)
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
