@@ -103,5 +103,18 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 ![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
 &nbsp;
 
+<!-- Eventos -->
+## &#9889; Projetos de Eventos Online
+
+* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128679;
+* [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) &#128679;
+* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp-eve-onl) &#128679;
+* [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat-eve-onl) &#128679;
+* [ ] [Habits.](https://github.com/Devsgeeknerd/pro-hab-eve-onl) &#128679;
+* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) &#128679;
+* [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128679;
+* [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128679;
+* [ ] [Vakinha Burger.](https://github.com/Devsgeeknerd/pro-vak-bur-eve-onl) &#128679;
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
