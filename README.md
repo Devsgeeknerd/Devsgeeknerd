@@ -132,6 +132,8 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 <!-- GitHub -->
 ### ![GitHub](https://img.shields.io/badge/GitHub-000fff.svg?style=p&logo=GitHub&logoColor=ffffff&labelColor=800080)
 
+![Paulo Vanderley GitHub Static](https://github-readme-stats-wheat-zeta-39.vercel.app/api?username=Devsgeeknerd&show_icons=true&bg_color=DEG,008000,f9e64f&title_color=ffffff&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=4&border_color=0000ff&card_width=500&locale=pt-BR "Estatísticas")
+
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
