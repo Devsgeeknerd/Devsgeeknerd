@@ -1,5 +1,5 @@
 <!-- Título -->
-# :nerd_face: Sejam muito bem vindos
+# &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Descrição -->
 Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, resolver problemas, automatizar tarefas, fazer amizades e desenvolver `Apps`, `Software`, `Websites` e um pouco mais.
@@ -10,7 +10,7 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 > &#10084; Resolva primeiro o problema e, em seguida, escreva o código!
 
 <!-- Contatos -->
-## &#9997; Contatos
+## &#128101; Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109@gmail.com "E-mail")
 &nbsp;
@@ -30,7 +30,7 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 [![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
 
 <!-- Cursos -->
-## &#127891; Cursos
+## &#128187; Cursos
 
 * [ ] [Base.](https://github.com/Devsgeeknerd/cat-bas) &#128679;
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
@@ -46,19 +46,19 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 ## &#128099; O que Aprendi
 
 <!-- Linguagens -->
-### Linguagens
+### &#128221; Linguagens
 
 <!-- Frameworks -->
-### Frameworks
+### &#128230; Frameworks
 
 <!-- Bibliotecas -->
-### Bibliotecas
+### &#128230; Bibliotecas
 
 <!-- Metologias -->
-### Metologias
+### &#128260; Metologias
 
 <!-- Bancos de Dados -->
-### Base de Dados
+### &#128202; Base de Dados
 
 <!-- Ferramentas -->
 ### &#129520; Ferramentas
@@ -72,13 +72,16 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 ![Visual Studio Code](https://img.shields.io/badge/Visial%20Studio%20Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080)
 
 <!-- Aprendendo -->
-## &#128218; Estou Aprendendo
+## &#129504; Estou Aprendendo
 
 ![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080)
 &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080)
 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080)
+
+<!-- Interesse -->
+## &#128161; Tenho Interesse
 
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
