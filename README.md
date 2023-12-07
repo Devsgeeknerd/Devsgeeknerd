@@ -2,7 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Descrição -->
-Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, resolver problemas, automatizar tarefas, fazer amizades e desenvolver `Apps`, `Software`, `Websites` e um pouco mais.
+Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coisas novas, resolver problemas, automatizar tarefas, fazer amizades e desenvolver `Apps`, `Software`, `Websites` e um pouco mais.
 
 <!-- Citações -->
 > &#129504; Pense duas vezes e codifiquem uma!
@@ -80,27 +80,27 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080 "Figma")
 &nbsp;
-![Api](https://img.shields.io/badge/RESTful-Api-000fff.svg?style=p&logo=&logoColor=ffffff&labelColor=800080)
+![Api](https://img.shields.io/badge/RESTful-Api-000fff.svg?style=p&logo=&logoColor=ffffff&labelColor=800080 "Api RESTful")
 
 <!-- Interesse -->
 ## &#128161; Tenho Interesse
 
 &nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080)
+![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080 "Kotlin")
 &nbsp;
-![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080)
+![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080 "Swift")
 &nbsp;
-![HTML](https://img.shields.io/badge/HTML-000fff.svg?style=p&logo=HTML5&logoColor=ffffff&labelColor=800080)
+![HTML](https://img.shields.io/badge/HTML-000fff.svg?style=p&logo=HTML5&logoColor=ffffff&labelColor=800080 "HTML")
 &nbsp;
-![CSS](https://img.shields.io/badge/CSS-000fff.svg?style=p&logo=CSS3&logoColor=ffffff&labelColor=800080)
+![CSS](https://img.shields.io/badge/CSS-000fff.svg?style=p&logo=CSS3&logoColor=ffffff&labelColor=800080 "CSS")
 &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080)
+![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080 "JavaScript")
 &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080)
+![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
 &nbsp;
-![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
+![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React")
 &nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
+![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
 &nbsp;
 
 <!-- Eventos -->
@@ -147,9 +147,11 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coias novas, 
 <!-- Wakatime -->
 ### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg" width="100%" height="100%" />
-</p>
+</p> -->
+
+![alternate text](https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg)
 
 <!-- Gráfico de Atividades
 ### Atividades
