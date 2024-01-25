@@ -135,7 +135,7 @@ Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coisas novas,
 <!-- GitHub -->
 ### ![GitHub](https://img.shields.io/badge/GitHub-000fff.svg?style=p&logo=GitHub&logoColor=ffffff&labelColor=800080)
 
-![Paulo Vanderley GitHub Static](https://github-readme-stats-six-eosin-67.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&bg_color=DEG,008000,f9e64f&title_color=333&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=0000ff&card_width=500&locale=pt-BR&custom_title=Estatísticas%20do%20Github%20de%20Paulo%20Vanderley&text_bold=true&ring_color=800080&number_format=long "Estatísticas")
+![Paulo Vanderley GitHub Static](https://github-readme-stats-six-eosin-67.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged&show_icons=true&rank_icon=percentile&bg_color=DEG,008000,f9e64f&title_color=333&icon_color=f9e64f&text_color=031a37&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=0000ff&card_width=500&locale=pt-BR&custom_title=Estatísticas%20do%20Github%20de%20Paulo%20Vanderley&text_bold=true&ring_color=800080&number_format=short "Estatísticas")
 
 <!-- Foco -->
 ### &#128293; Ofensivas
