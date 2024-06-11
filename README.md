@@ -8,6 +8,7 @@ Minha jornada inclui:
 
 * &#10024; **Desenvolvimento de Apps e Software:** Criando soluções eficientes e funcionais.
 * &#127760; **Desenvolvimento de Websites:** Projetando experiencias web modernas e responsivas.
+* &#129309; **Networking:** Valorizo a construção de amizades e colaborações significativas na comunidade tech.
 
 <!-- Citações -->
 > &#129504; Pense duas vezes e codifiquem uma!
