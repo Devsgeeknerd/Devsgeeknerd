@@ -3,9 +3,7 @@
 
 <!-- Descrição -->
 &#128075; Olá! Sou um estudante apaixonado por desenvolvimento Full Stack e tecnologias inovadoras.
-
 Gosto de aprender coisas novas, resolver problemas complexos e automatizar tarefas para otimizar processos.
-
 Minha jornada inclui:
 
 <!-- Citações -->
