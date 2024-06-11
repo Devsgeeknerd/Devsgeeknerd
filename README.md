@@ -2,7 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Descrição -->
-Sou um estudante `Full Stack` apaixonado por tecnologias, aprender coisas novas, resolver problemas, automatizar tarefas, fazer amizades e desenvolver `Apps`, `Software`, `Websites` e um pouco mais.
+&#128075; Olá! Sou um estudante apaixonado por desenvolvimento Full Stack e tecnologias inovadoras.
 
 <!-- Citações -->
 > &#129504; Pense duas vezes e codifiquem uma!
