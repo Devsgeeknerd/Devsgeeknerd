@@ -10,6 +10,8 @@ Minha jornada inclui:
 * &#127760; **Desenvolvimento de Websites:** Projetando experiencias web modernas e responsivas.
 * &#129309; **Networking:** Valorizo a construção de amizades e colaborações significativas na comunidade tech.
 
+&#128200; Sempre em busca de novos desafios, estou comprometido com a melhoria continua e a inovação. Se você compartilha a mesma paixão por tecnologia e desenvolvimento, vamos nos conectar! Acompanhe meu GitHub para ver meus projetos e colaborações.
+
 <!-- Citações -->
 > &#129504; Pense duas vezes e codifiquem uma!
 
