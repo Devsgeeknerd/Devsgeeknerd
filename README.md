@@ -167,7 +167,7 @@ Minha jornada inclui:
 <!-- Gráfico de Atividades -->
 ### Atividades
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=000fff&point=f9e64f&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=800080&color=ffffff&line=f9e64f&point=000fff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20Commits%20Diários "Atividades Diárias")
 
 <!-- Informações -->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
