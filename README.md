@@ -1,5 +1,5 @@
 <!-- Título -->
-#
+# &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Informações -->
 ## &#8505; Informações
