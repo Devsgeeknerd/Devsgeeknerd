@@ -6,6 +6,8 @@
 
 Minha jornada inclui:
 
+* &#10024; **Desenvolvimento de Apps e Software:** Criando soluções eficientes e funcionais.
+
 <!-- Informações -->
 ## &#8505; Informações
 
