@@ -2,6 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Descrição -->
+&#128075; Olá! Sou um estudante apaixonado por desenvolvimento Full Stack e tecnologias inovadoras. Gosto de aprender coias novas, resolver problemas complexos e automatizar tarefas para otimizar processos.
 
 <!-- Informações -->
 ## &#8505; Informações
