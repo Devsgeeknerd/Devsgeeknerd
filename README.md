@@ -10,7 +10,7 @@
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
