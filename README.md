@@ -1,6 +1,8 @@
 <!-- Título -->
 # &#128522; Sejam muito bem vindos &#128075;
 
+<!-- Descrição -->
+
 <!-- Informações -->
 ## &#8505; Informações
 
