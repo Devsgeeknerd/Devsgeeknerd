@@ -21,8 +21,8 @@ Minha jornada inclui:
 ## &#128101; Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
-&nsp;
-[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo)]()
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd)
 
 <!-- Informações -->
 ## &#8505; Informações
