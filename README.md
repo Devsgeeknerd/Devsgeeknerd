@@ -25,6 +25,8 @@ Minha jornada inclui:
 [![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd "Telegram")
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 
 <!-- Informações -->
 ## &#8505; Informações
