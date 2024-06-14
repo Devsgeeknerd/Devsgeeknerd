@@ -17,6 +17,9 @@ Minha jornada inclui:
 
 > &#10084; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
+<!-- Contatos -->
+## &#128101; Contatos
+
 <!-- Informações -->
 ## &#8505; Informações
 
