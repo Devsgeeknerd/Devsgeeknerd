@@ -28,6 +28,9 @@ Minha jornada inclui:
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 
+<!-- Rede Sociais -->
+## 129309; Rede Sociais
+
 <!-- Informações -->
 ## &#8505; Informações
 
