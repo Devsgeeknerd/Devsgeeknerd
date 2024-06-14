@@ -32,6 +32,8 @@ Minha jornada inclui:
 ## &#129309; Rede Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd)
+&nbsp;
+[![Instagram](https://shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/Devsgeeknerd "Instagram")
 
 <!-- Informações -->
 ## &#8505; Informações
