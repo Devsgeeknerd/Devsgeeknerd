@@ -29,7 +29,9 @@ Minha jornada inclui:
 [![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 
 <!-- Rede Sociais -->
-## 129309; Rede Sociais
+## &#129309; Rede Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd)
 
 <!-- Informações -->
 ## &#8505; Informações
