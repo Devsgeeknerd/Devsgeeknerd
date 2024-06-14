@@ -13,6 +13,7 @@ Minha jornada inclui:
 &#128200; Sempre em busca de novos desafios, estou comprometido com a melhoria continua e a inovação. Se você compartilha a mesma paixão por tecnologia e desenvolvimento, vamos nos conectar! Acompanhe meu GitHub para ver meus projetos e colaborações.
 
 <!-- Citações -->
+&#129504; "Pense duas vezes e codifiquem uma!"
 
 <!-- Informações -->
 ## &#8505; Informações
