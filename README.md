@@ -22,7 +22,9 @@ Minha jornada inclui:
 
 [![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd)
+[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd "Telegram")
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 
 <!-- Informações -->
 ## &#8505; Informações
