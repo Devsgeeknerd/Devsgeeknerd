@@ -60,7 +60,7 @@ Minha jornada inclui:
 ### &#128221; Projetos dos Cursos
 
 <!-- Aprendizados -->
-## &#128099; O que Aprendi
+## &#129489; O que Aprendi
 
 <!-- Linguagens -->
 ### &#128221; Linguagens
