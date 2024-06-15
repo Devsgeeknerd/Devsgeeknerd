@@ -48,6 +48,7 @@ Minha jornada inclui:
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128274;
 * [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128274;
 * [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128274;
+* [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
