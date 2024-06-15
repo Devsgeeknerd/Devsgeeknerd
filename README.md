@@ -50,6 +50,8 @@ Minha jornada inclui:
 * [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128274;
 * [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128274;
 * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128274;
+* [ ] [Inteligência Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128274;
+
 <!-- Informações -->
 ## &#8505; Informações
 
