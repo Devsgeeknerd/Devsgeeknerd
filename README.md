@@ -71,6 +71,7 @@ Minha jornada inclui:
 <!-- Bibliotecas -->
 ### &#128230; Bibliotecas
 
+<!--  Metodologias -->
 ### &#127919; Metodologias Ágeis
 
 <!-- Bancos de Dados -->
