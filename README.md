@@ -44,7 +44,8 @@ Minha jornada inclui:
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128274;
 * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128274;
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128274;
-* [ ] [Designer de Interação.](https://github.com/cat-int) &#128274;
+* [ ] [Designer de Interação.](https://github.com/cat-des-int) &#128274;
+* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
