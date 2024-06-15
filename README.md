@@ -41,6 +41,7 @@ Minha jornada inclui:
 ## &#128218; Cursos
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#128679;
+* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
