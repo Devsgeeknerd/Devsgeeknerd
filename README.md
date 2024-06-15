@@ -68,6 +68,9 @@ Minha jornada inclui:
 <!-- Frameworks -->
 ### &#128230; Frameworks
 
+<!-- Bibliotecas -->
+### &#128230; Bibliotecas
+
 <!-- Informações -->
 ## &#8505; Informações
 
