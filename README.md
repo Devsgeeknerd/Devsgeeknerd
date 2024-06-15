@@ -40,6 +40,8 @@ Minha jornada inclui:
 <!-- Cursos -->
 ## &#128218; Cursos
 
+* [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#128679;
+
 <!-- Informações -->
 ## &#8505; Informações
 
