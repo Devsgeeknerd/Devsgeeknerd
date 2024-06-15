@@ -37,6 +37,9 @@ Minha jornada inclui:
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
 
+<!-- Cursos -->
+## &#128218; Cursos
+
 <!-- Informações -->
 ## &#8505; Informações
 
