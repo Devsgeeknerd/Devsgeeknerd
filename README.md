@@ -42,6 +42,7 @@ Minha jornada inclui:
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#128679;
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128274;
+* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
