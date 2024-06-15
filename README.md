@@ -62,6 +62,9 @@ Minha jornada inclui:
 <!-- Aprendizados -->
 ## &#128099; O que Aprendi
 
+<!-- Linguagens -->
+### &#128221; Linguagens
+
 <!-- Informações -->
 ## &#8505; Informações
 
