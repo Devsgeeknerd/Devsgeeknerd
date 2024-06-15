@@ -56,6 +56,9 @@ Minha jornada inclui:
 * [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128274;
 * [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128274;
 
+<!-- Projetos dos Cursos -->
+### &#128221; Projetos dos Cursos
+
 <!-- Informações -->
 ## &#8505; Informações
 
