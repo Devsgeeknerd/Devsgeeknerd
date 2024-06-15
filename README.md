@@ -53,6 +53,8 @@ Minha jornada inclui:
 * [ ] [Inteligência Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128274;
 * [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128274;
 * [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128274;
+* [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128274;
+* [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
