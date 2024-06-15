@@ -59,6 +59,9 @@ Minha jornada inclui:
 <!-- Projetos dos Cursos -->
 ### &#128221; Projetos dos Cursos
 
+<!-- Aprendizados -->
+## &#128099; O que Aprendi
+
 <!-- Informações -->
 ## &#8505; Informações
 
