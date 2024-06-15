@@ -18,7 +18,7 @@ Minha jornada inclui:
 > &#10084; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
 <!-- Contatos -->
-## &#128101; Contatos
+## &#128241; Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
 &nbsp;
@@ -29,7 +29,7 @@ Minha jornada inclui:
 [![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 
 <!-- Rede Sociais -->
-## &#129309; Rede Sociais
+## &#127760; Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn ")
 &nbsp;
