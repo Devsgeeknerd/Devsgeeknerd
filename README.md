@@ -83,6 +83,8 @@ Minha jornada inclui:
 ![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
 &nbsp;
 ![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
+&nbsp;
+![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
 
 <!-- Informações -->
 ## &#8505; Informações
