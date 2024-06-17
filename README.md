@@ -77,6 +77,9 @@ Minha jornada inclui:
 <!-- Bancos de Dados -->
 ### &#128202; Bancos de Dados
 
+<!-- Ferramentas -->
+### &#129520; Ferramentas
+
 <!-- Informações -->
 ## &#8505; Informações
 
