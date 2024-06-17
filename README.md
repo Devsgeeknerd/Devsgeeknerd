@@ -85,6 +85,8 @@ Minha jornada inclui:
 ![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
 &nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
+&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000fff.svg??style=p&logo=Visual-Studio-code&logoColor=ffffff&labelColor=800080 "Visual Studio Code")
 
 <!-- Informações -->
 ## &#8505; Informações
