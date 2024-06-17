@@ -78,7 +78,7 @@ Minha jornada inclui:
 ### &#128202; Bancos de Dados
 
 <!-- Ferramentas -->
-### &#129520; Ferramentas
+### &#128736; Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
 &nbsp;
@@ -87,6 +87,9 @@ Minha jornada inclui:
 ![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000fff.svg??style=p&logo=Visual-Studio-code&logoColor=ffffff&labelColor=800080 "Visual Studio Code")
+
+<!-- Aprendendo -->
+## &#128214; Estou Aprendendo
 
 <!-- Informações -->
 ## &#8505; Informações
