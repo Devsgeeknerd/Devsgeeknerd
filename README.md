@@ -94,6 +94,8 @@ Minha jornada inclui:
 ![Dart](https://img.shields.io/badge/Dart-000fff.svg?styel=p&logo=Dart&logoColor=ffffff&labelColor=800080 "Dart")
 &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080)
+&nbsp;
+![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080)
 
 <!-- Informações -->
 ## &#8505; Informações
