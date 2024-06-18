@@ -111,6 +111,8 @@ Minha jornada inclui:
 ![CSS](https://img.shields.io/badge/CSS-000fff.svg?style=p&logo=CSS3&logoColor=ffffff&labelColor=800080 "CSS")
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080 "JavaScript")
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=)
 
 <!-- Informações -->
 ## &#8505; Informações
