@@ -123,9 +123,10 @@ Minha jornada inclui:
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274;
 * [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) &#128274;
-* [ ] [Duo eSports.](https://github.com/Devesgeeknerd/pro-duo-esp-eve-onl) &#128274;
+* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp-eve-onl) &#128274;
 * [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat-eve-onl) &#128274;
 * [ ] [Habits.](https://github.com/Devsgeeknerd/pro-hab-eve-onl) &#128274;
+* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
