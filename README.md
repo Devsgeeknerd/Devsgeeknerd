@@ -134,7 +134,11 @@ Minha jornada inclui:
 <!-- Projetos Próprios -->
 ## &#9881; Projetos Próprios
 
+* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#128679;
 * [ ] [Devs Bot.](https://github.com/Devsgeeknerd/pro-dev-bot-pro) &#128274;
+
+<!-- Projetos Clones -->
+## &#128107; Projetos Clones
 
 <!-- Informações -->
 ## &#8505; Informações
