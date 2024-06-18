@@ -103,6 +103,8 @@ Minha jornada inclui:
 ## &#128161; Tenho Interesse
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080 "Kotlin")
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080)
 
 <!-- Informações -->
 ## &#8505; Informações
