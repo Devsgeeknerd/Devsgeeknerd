@@ -115,6 +115,8 @@ Minha jornada inclui:
 ![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
 &nbsp;
 ![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React")
+&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080)
 
 <!-- Informações -->
 ## &#8505; Informações
