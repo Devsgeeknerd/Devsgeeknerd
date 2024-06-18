@@ -151,7 +151,7 @@ Minha jornada inclui:
 <!-- Foco -->
 ### &#128165; Ofensivas
 
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=FFD700&stroke=000000&ring=1E90FF&fire=FF4500&currStreakNum=FF0000&currStreakLabel=FFFFFF&sideNums=2F4F4F&sideLabels=1E90FF&dates=FFFFFF&locale=pt-br)
 <!-- Informações -->
 ## &#8505; Informações
 
