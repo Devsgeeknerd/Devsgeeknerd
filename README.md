@@ -141,6 +141,8 @@ Minha jornada inclui:
 
 ## &#128209; Projetos Clones
 
+## &#128200; Métricas
+
 <!-- Informações -->
 ## &#8505; Informações
 
