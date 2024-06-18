@@ -161,6 +161,7 @@ Minha jornada inclui:
 <!-- Gráfico de Atividades -->
 ### &#128197; Gráfico de Atividades
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=FFFFFF&color=1E90FF&line=FFD700&point=FF4500&area=true&area_color=BC2A8D&custom_title=Gráfico%20de%20Atividades%20Diárias "Gráfico de Atividades")
 
 <!-- Informações -->
 ## &#8505; Informações
