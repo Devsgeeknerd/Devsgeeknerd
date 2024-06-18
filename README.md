@@ -123,6 +123,7 @@ Minha jornada inclui:
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274;
 * [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) &#128274;
+* [ ] [Duo eSports.](https://github.com/Devesgeeknerd/pro-duo-esp-eve-onl) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
