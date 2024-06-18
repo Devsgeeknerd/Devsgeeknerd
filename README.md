@@ -146,6 +146,8 @@ Minha jornada inclui:
 <!-- GitHub -->
 ### &#128202; Métricas do GitHub
 
+![Paulo Vanderley GitHub Static](https://github-readme-stats-six-eosin-67.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged&show_icons=true&rank_icon=percentile&bg_color=DEG,833AB4,FD1D1D,F56040,FCAF45,BC2A8D&title_color=000000&icon_color=ffffff&text_color=262626&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=fff000&card_with=500&locale=pt-BR&custom_title=Estatísticas%20de%20Paulo%20Vanderley&text_bold=true&ring_color=FAFAFA&number_format=short "Estatísticas")
+
 <!-- Informações -->
 ## &#8505; Informações
 
