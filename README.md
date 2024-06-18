@@ -154,9 +154,13 @@ Minha jornada inclui:
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=FFD700&stroke=000000&ring=1E90FF&fire=FF4500&currStreakNum=FF0000&currStreakLabel=FFFFFF&sideNums=2F4F4F&sideLabels=1E90FF&dates=FFFFFF&locale=pt-br)
 
 <!-- Top -->
-### &#11088; Top Langs
+### &#11088; Top Linguagens
 
 ![Top Langs](https://github-readme-stats-six-eosin-67.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
+
+<!-- Gráfico de Atividades -->
+### &#128197; Gráfico de Atividades
+
 
 <!-- Informações -->
 ## &#8505; Informações
