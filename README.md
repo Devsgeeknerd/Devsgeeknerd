@@ -128,6 +128,7 @@ Minha jornada inclui:
 * [ ] [Habits.](https://github.com/Devsgeeknerd/pro-hab-eve-onl) &#128274;
 * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) &#128274;
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128274;
+* [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
