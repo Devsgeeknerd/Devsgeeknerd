@@ -118,7 +118,7 @@ Minha jornada inclui:
 &nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
 
-<!-- Eventos -->
+<!-- Projetos dos Eventos -->
 ## &#128187; Projetos de Eventos Online
 
 * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274;
@@ -130,6 +130,10 @@ Minha jornada inclui:
 * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128274;
 * [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128274;
 * [ ] [Vakinha Burger.](https://github.com/Devsgeeknerd/pro-vak-bur-eve-onl) &#128274;
+
+<!-- Projetos Próprios -->
+## &#9881; Projetos Próprios
+
 
 <!-- Informações -->
 ## &#8505; Informações
