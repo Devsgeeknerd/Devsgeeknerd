@@ -118,7 +118,10 @@ Minha jornada inclui:
 &nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
 
+<!-- Eventos -->
 ## &#128187; Projetos de Eventos Online
+
+* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
