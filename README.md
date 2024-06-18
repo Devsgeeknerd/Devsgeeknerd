@@ -156,6 +156,8 @@ Minha jornada inclui:
 <!-- Top -->
 ### &#11088; Top Langs
 
+![Top Langs](https://github-readme-stats-six-eosin-67.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
+
 <!-- Informações -->
 ## &#8505; Informações
 
