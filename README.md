@@ -99,6 +99,9 @@ Minha jornada inclui:
 &nbsp;
 ![Api](https://img.shields.io/badge/RESTFul-Api-000fff.svg?style=p&logoColor=ffffff&labelColor=800080 "Api RESTFul")
 
+<!-- Interesse -->
+## &#128161; Tenho Interesse
+
 <!-- Informações -->
 ## &#8505; Informações
 
