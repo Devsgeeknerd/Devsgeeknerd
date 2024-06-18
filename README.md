@@ -144,7 +144,7 @@ Minha jornada inclui:
 ## &#128200; Métricas
 
 <!-- GitHub -->
-### ![GitHub](https://shields.io/badge/GitHub-000fff.svg?style=p&logo=GitHub&logoColor=ffffff&labelColor=800080 "GitHub")
+### &#128202; Métricas do GitHub
 
 <!-- Informações -->
 ## &#8505; Informações
