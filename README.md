@@ -134,6 +134,7 @@ Minha jornada inclui:
 <!-- Projetos Próprios -->
 ## &#9881; Projetos Próprios
 
+* [ ] [Devs Bot.](https://github.com/Devsgeeknerd/pro-dev-bot-pro) &#128274;
 
 <!-- Informações -->
 ## &#8505; Informações
