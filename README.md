@@ -163,6 +163,9 @@ Minha jornada inclui:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=FFFFFF&color=1E90FF&line=FFD700&point=FF4500&area=true&area_color=BC2A8D&custom_title=Gráfico%20de%20Atividades%20Diárias "Gráfico de Atividades")
 
+<!-- Wakatime -->
+### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
+
 <!-- Informações -->
 ## &#8505; Informações
 
