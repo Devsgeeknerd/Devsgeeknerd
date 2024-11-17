@@ -144,7 +144,7 @@ Minha jornada inclui:
 ## &#128200; Métricas
 
 <!-- GitHub -->
-### &#128202; Métricas do GitHub
+### &#128202; GitHub
 
 ![Paulo Vanderley GitHub Static](https://github-readme-stats-six-eosin-67.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged&show_icons=true&rank_icon=percentile&bg_color=DEG,833AB4,FD1D1D,F56040,FCAF45,BC2A8D&title_color=000000&icon_color=ffffff&text_color=262626&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=fff000&card_with=600&locale=pt-BR&custom_title=Estatísticas%20de%20Paulo%20Vanderley&text_bold=true&ring_color=FAFAFA&number_format=short "Estatísticas")
 
@@ -159,7 +159,7 @@ Minha jornada inclui:
 ![Top Langs](https://github-readme-stats-six-eosin-67.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
 
 <!-- Gráfico de Atividades -->
-### &#128197; Gráfico de Atividades
+### &#128197; Atividades
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=FFFFFF&color=1E90FF&line=FFD700&point=FF4500&area=true&area_color=BC2A8D&custom_title=Gráfico%20de%20Atividades%20Diárias "Gráfico de Atividades")
 
