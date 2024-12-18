@@ -18,7 +18,8 @@ Minha jornada inclui:
 > &#10084; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
 <!-- Contatos -->
-## &#128241; Contatos
+<!-- ## &#128241; Contatos
+<!-- ## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Contatos
 
 [![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
 &nbsp;
@@ -26,56 +27,56 @@ Minha jornada inclui:
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!") -->
 
 <!-- Rede Sociais -->
-## &#127760; Redes Sociais
+<!-- ## &#127760; Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn ")
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/Devsgeeknerd "Instagram")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
+[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook") -->
 
 <!-- Cursos -->
 ## &#128218; Cursos
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#128679;
-* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128274;
-* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128274;
-* [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128274;
-* [ ] [Designer de Interação.](https://github.com/cat-des-int) &#128274;
-* [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128274;
-* [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128274;
-* [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128274;
-* [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128274;
-* [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128274;
-* [ ] [Inteligência Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128274;
-* [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128274;
-* [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128274;
-* [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128274;
-* [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128274;
+<!-- * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128274; -->
+<!-- * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128274; -->
+<!-- * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128274; -->
+<!-- * [ ] [Designer de Interação.](https://github.com/cat-des-int) &#128274; -->
+<!-- * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128274; -->
+<!-- * [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128274; -->
+<!-- * [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128274; -->
+<!-- * [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128274; -->
+<!-- * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128274; -->
+<!-- * [ ] [Inteligência Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128274; -->
+<!-- * [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128274; -->
+<!-- * [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128274; -->
+<!-- * [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128274; -->
+<!-- * [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128274; -->
 
 <!-- Projetos dos Cursos -->
-### &#128221; Projetos dos Cursos
+<!-- ### &#128221; Projetos dos Cursos -->
 
 <!-- Aprendizados -->
 ## &#129489; O que Aprendi
 
 <!-- Linguagens -->
-### &#128221; Linguagens
+<!-- ### &#128221; Linguagens -->
 
 <!-- Frameworks -->
-### &#128230; Frameworks
+<!-- ### &#128230; Frameworks -->
 
 <!-- Bibliotecas -->
-### &#128230; Bibliotecas
+<!-- ### &#128230; Bibliotecas -->
 
 <!--  Metodologias -->
-### &#127919; Metodologias Ágeis
+<!-- ### &#127919; Metodologias Ágeis -->
 
 <!-- Bancos de Dados -->
-### &#128202; Bancos de Dados
+<!-- ### &#128202; Bancos de Dados -->
 
 <!-- Ferramentas -->
 ### &#128736; Ferramentas
@@ -121,25 +122,25 @@ Minha jornada inclui:
 <!-- Projetos dos Eventos -->
 ## &#128187; Projetos de Eventos Online
 
-* [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274;
-* [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) &#128274;
-* [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp-eve-onl) &#128274;
+<!-- * [ ] [Adote um Pet.](https://github.com/Devsgeeknerd/pro-ado-pet-eve-onl) &#128274; -->
+<!-- * [ ] [Bolão da Copa.](https://github.com/Devsgeeknerd/pro-bol-cop-eve-onl) &#128274; -->
+<!-- * [ ] [Duo eSports.](https://github.com/Devsgeeknerd/pro-duo-esp-eve-onl) &#128274; -->
 * [ ] [Fifa World Cup — Qatar.](https://github.com/Devsgeeknerd/pro-fif-wor-cup-qat-eve-onl) &#128274;
-* [ ] [Habits.](https://github.com/Devsgeeknerd/pro-hab-eve-onl) &#128274;
-* [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) &#128274;
-* [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128274;
-* [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128274;
-* [ ] [Vakinha Burger.](https://github.com/Devsgeeknerd/pro-vak-bur-eve-onl) &#128274;
+<!-- * [ ] [Habits.](https://github.com/Devsgeeknerd/pro-hab-eve-onl) &#128274; -->
+<!-- * [ ] [Mundo Invertido.](https://github.com/Devsgeeknerd/pro-mun-inv-eve-onl) &#128274; -->
+<!-- * [ ] [My Teacher.](https://github.com/Devsgeeknerd/pro-my-tea-eve-onl) &#128274; -->
+<!-- * [ ] [Na Trave.](https://github.com/Devsgeeknerd/pro-na-tra-eve-onl) &#128274; -->
+<!-- * [ ] [Vakinha Burger.](https://github.com/Devsgeeknerd/pro-vak-bur-eve-onl) &#128274; -->
 
 <!-- Projetos Próprios -->
 ## &#9881; Projetos Próprios
 
 * [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#128679;
 * [ ] [Base Project Architecture.](https:) &#128679;
-* [ ] [Devs Bot.](https://github.com/Devsgeeknerd/pro-dev-bot-pro) &#128274;
+<!-- * [ ] [Devs Bot.](https://github.com/Devsgeeknerd/pro-dev-bot-pro) &#128274; -->
 
 <!-- Projetos Clones -->
-## &#128209; Projetos Clones
+<!-- ## &#128209; Projetos Clones -->
 
 ## &#128200; Métricas
 
@@ -167,6 +168,11 @@ Minha jornada inclui:
 ### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
 
 ![Alternate Text](https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg)
+
+<!-- Perfil -->
+### Perfil
+
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=followers,repositories,commits,stars&theme=dev)
 
 <!-- Informações -->
 ## &#8505; Informações
