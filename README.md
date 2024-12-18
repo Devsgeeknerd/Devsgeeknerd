@@ -172,7 +172,7 @@ Minha jornada inclui:
 <!-- Perfil -->
 ### Perfil
 
-![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=followers,repositories,commits,stars&theme=dev)
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=followers,repositories,commits,stars&theme=natillus)
 
 <!-- Informações -->
 ## &#8505; Informações
