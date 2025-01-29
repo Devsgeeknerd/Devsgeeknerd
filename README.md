@@ -30,13 +30,13 @@ Minha jornada inclui:
 [![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!") -->
 
 <!-- Rede Sociais -->
-<!-- ## &#127760; Redes Sociais
+## &#127760; Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn ")
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/Devsgeeknerd "Instagram")
+[![Instagram](https://img.shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/devsgeeknerd "Instagram")
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook") -->
+[![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
 
 <!-- Cursos -->
 ## &#128218; Cursos
@@ -86,8 +86,6 @@ Minha jornada inclui:
 ![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
 &nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
-<!-- &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000fff.svg?style=p&logoColor=ffffff&labelColor=800080 "Visual Studio Code") -->
 
 <!-- Aprendendo -->
 ## &#128214; Estou Aprendendo
@@ -145,19 +143,19 @@ Minha jornada inclui:
 ## &#128200; Métricas
 
 <!-- GitHub -->
-<!-- ### &#128202; GitHub -->
+### &#128202; GitHub
 
-<!-- ![Paulo Vanderley GitHub Static](https://github-readme-stats-six-eosin-67.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged&show_icons=true&rank_icon=percentile&bg_color=DEG,833AB4,FD1D1D,F56040,FCAF45,BC2A8D&title_color=000000&icon_color=ffffff&text_color=262626&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=fff000&card_with=600&locale=pt-BR&custom_title=Estatísticas%20de%20Paulo%20Vanderley&text_bold=true&ring_color=FAFAFA&number_format=short "Estatísticas") -->
+![GitHub stats](https://github-readme-stats-2244.vercel.app/api?username=Devsgeeknerd&show=previews,discussions_started,discussions_answered,prs_merged&show_icons=true&rank_icon=percentile&bg_color=DEG,833AB4,FD1D1D,F56040,FCAF45,BC2A8D&title_color=000000&icon_color=ffffff&text_color=262626&include_all_commits=true&count_private=true&cache_seconds=14400&line_height=30&border_radius=12&border_color=fff000&card_with=600&locale=pt-BR&custom_title=Estatísticas%20de%20Paulo%20Vanderley&text_bold=true&ring_color=FAFAFA&number_format=short "Estatísticas")
 
 <!-- Foco -->
 ### &#128165; Sequência de Contribuições
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Devsgeeknerd&background=FFD700&stroke=000000&ring=1E90FF&fire=FF4500&currStreakNum=FF0000&currStreakLabel=1E2327&sideNums=2F4F4F&sideLabels=1E90FF&dates=1E2327&locale=pt-br "Sequência de Contribuições")
+[![GitHub Streak](https://github-readme-streak-stats-2244.vercel.app?user=Devsgeeknerd&theme=github-green-purple&hide_border=true&border_radius=16&locale=pt_BR&short_numbers=true)](https://github.com/Devsgeeknerd)
 
 <!-- Top -->
-<!-- ### &#11088; Top Linguagens -->
+### &#11088; Top Linguagens -->
 
-<!-- ![Top Langs](https://github-readme-stats-six-eosin-67.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens") -->
+![Top Langs](https://github-readme-stats-2244.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
 
 <!-- Gráfico de Atividades -->
 ### &#128197; Atividades
