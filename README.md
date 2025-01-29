@@ -153,7 +153,7 @@ Minha jornada inclui:
 [![GitHub Streak](https://github-readme-streak-stats-2244.vercel.app?user=Devsgeeknerd&theme=github-green-purple&hide_border=true&border_radius=16&locale=pt_BR&short_numbers=true)](https://github.com/Devsgeeknerd)
 
 <!-- Top -->
-### &#11088; Top Linguagens -->
+### &#11088; Top Linguagens
 
 ![Top Langs](https://github-readme-stats-2244.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
 
