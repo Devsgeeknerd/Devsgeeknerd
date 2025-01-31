@@ -14,6 +14,14 @@ Minha jornada inclui:
 
 &#128161; **Estou sempre em busca de novos desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
 
+---
+
+<!-- Frases motivacionais -->
+## &#128220; Citações Inspiradoras
+
+> &#129504; "Pense duas vezes e codifique uma!"
+> &#10084;&#65039; "Resolva primeiro o problema e, em seguida, escreva o código!"
+
 <!-- Informações -->
 ## &#8505; Informações
 
