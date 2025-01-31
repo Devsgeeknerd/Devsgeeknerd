@@ -23,6 +23,8 @@ Minha jornada inclui:
 
 > &#10084;&#65039; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
+> &#128161; "A programação é como a arte: você precisa de criatividade e técnica para criar algo belo."
+
 <!-- Informações -->
 ## &#8505; Informações
 
