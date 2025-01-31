@@ -20,6 +20,7 @@ Minha jornada inclui:
 ## &#128220; Citações Inspiradoras
 
 > &#129504; "Pense duas vezes e codifique uma!"
+
 > &#10084;&#65039; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
 <!-- Informações -->
