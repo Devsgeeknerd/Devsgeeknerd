@@ -25,6 +25,36 @@ Minha jornada inclui:
 
 > &#128161; "A programação é como a arte: você precisa de criatividade e técnica para criar algo belo."
 
+> &#128295; "A programação é um exercício de paciência e criatividade."
+
+> &#129488; "Cada linha de código é uma peça do quebra-cabeça que forma a solução."
+
+> &#127752; "A única maneira de fazer um excelente trabalho é amar o que você faz."
+
+> &#128640; "A única maneira de prever o futuro é criá-lo."
+
+> &#127775; "Não tenha medo de falhar; tenha medo de não tentar."
+
+> &#128200; "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+> &#128170; "A persistência é o caminho do êxito."
+
+> &#128269; "A solução para um problema complexo pode ser encontrada em um simples passo à frente."
+
+> &#127757; "A tecnologia é melhor quando une as pessoas."
+
+> &#10024; "A única limitação que você tem é a sua própria mente."
+
+> &#128218; "Aprender a programar é aprender a resolver problemas."
+
+> &#127919; "Defina metas altas e não pare até alcançá-las."
+
+> &#128373;&#8205;&#9794;&#65039; A curiosidade é a chave para a inovação."
+
+> &#128293; "Cada erro é uma oportunidade de aprender e crescer."
+
+> &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso."
+
 <!-- Informações -->
 ## &#8505; Informações
 
