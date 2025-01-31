@@ -4,3 +4,5 @@
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/Devsgeeknerd?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
