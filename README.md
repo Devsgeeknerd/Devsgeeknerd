@@ -4,6 +4,14 @@
 <!-- Introdução -->
 &#128075; Olá! Sou um **desenvolvedor Full Stack apaixonado** por tecnologia e inovação. Amo aprender coisas novas, resolver problemas complexos e automatizar processos para torná-los mais eficientes.
 
+## &#127942; Sobre Mim
+
+Minha jornada inclui:
+
+* &#127919; **Desenvolvimento de Software e Aplicações** - Criando soluções inovadoras e funcionais.
+* &#127757; **Desenvolvimento Web** - Projetando interfaces modernas e responsivas.
+* &#129309; **Networking** - Conectando-se com pessoas incríveis do mundo tech.
+
 <!-- Informações -->
 ## &#8505; Informações
 
