@@ -16,6 +16,19 @@ Minha jornada inclui:
 
 ---
 
+<!-- Contatos -->
+## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como Me Encontrar
+
+[![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd "Telegram")
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+
+---
+
 <!-- Frases motivacionais -->
 ## &#128220; Citações Inspiradoras
 
@@ -54,6 +67,8 @@ Minha jornada inclui:
 > &#128293; "Cada erro é uma oportunidade de aprender e crescer."
 
 > &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso."
+
+---
 
 <!-- Informações -->
 ## &#8505; Informações
