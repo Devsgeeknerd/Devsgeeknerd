@@ -12,6 +12,8 @@ Minha jornada inclui:
 * &#127757; **Desenvolvimento Web** - Projetando interfaces modernas e responsivas.
 * &#129309; **Networking** - Conectando-se com pessoas incríveis do mundo tech.
 
+&#128161; **Estou sempre em busca de novos desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
+
 <!-- Informações -->
 ## &#8505; Informações
 
