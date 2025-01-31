@@ -1,6 +1,9 @@
 <!-- Título -->
 # &#128522; Sejam muito bem vindos &#128075;
 
+<!-- Introdução -->
+&#128075; Olá! Sou um **desenvolvedor Full Stack apaixonado** por tecnologia e inovação. Amo aprender coisas novas, resolver problemas complexos e automatizar processos para torná-los mais eficientes.
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
