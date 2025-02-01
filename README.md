@@ -75,7 +75,7 @@ Minha jornada inclui:
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
 * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
-* [ ] []() &#128679;
+* [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
