@@ -76,7 +76,7 @@ Minha jornada inclui:
 * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
 * [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128679;
-* [ ] []() &#128679;
+* [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
