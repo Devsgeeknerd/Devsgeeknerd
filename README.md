@@ -103,3 +103,9 @@ Minha jornada inclui:
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/Devsgeeknerd?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+
+---
+
+## &#128227; Obrigado por visitar meu perfil!
+
+Se gostou, **deixe uma estrela** nos meus repositórios e me siga para acompanhar meu projetos! &#128515;&#128640;
