@@ -80,7 +80,7 @@ Minha jornada inclui:
 * [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128679;
 * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128679;
 * [ ] [Inteligencia Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128679;
-* [ ] []() &#128679;
+* [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
