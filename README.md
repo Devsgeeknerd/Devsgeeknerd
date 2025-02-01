@@ -70,7 +70,7 @@ Minha jornada inclui:
 &#127891; Atualmente estudado e aprofundando conhecimento em:
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#127959;&#65039;
-* [ ] []() &#128679;
+* [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
