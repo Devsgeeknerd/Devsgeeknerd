@@ -81,7 +81,7 @@ Minha jornada inclui:
 * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128679;
 * [ ] [Inteligencia Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128679;
 * [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128679;
-* [ ] []() &#128679;
+* [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 
