@@ -73,7 +73,7 @@ Minha jornada inclui:
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
 * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
-* [ ] []() &#128679;
+* [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
 * [ ] []() &#128679;
