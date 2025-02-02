@@ -147,6 +147,8 @@ Minha jornada inclui:
 
 ### Perfil
 
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=followers,repositories,stars&theme=darkmode)
+
 ---
 
 <!-- Informações -->
