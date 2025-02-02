@@ -89,7 +89,9 @@ Minha jornada inclui:
 
 ## &#128736;&#65039; Ferramentas e Tecnologias
 
-![git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
+![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
+&nbsp;
+![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
 
 ---
 
