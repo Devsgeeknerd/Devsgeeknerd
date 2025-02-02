@@ -129,6 +129,8 @@ Minha jornada inclui:
 
 ### Próprios
 
+* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#127959;&#65039;
+
 ### Clones
 
 ---
