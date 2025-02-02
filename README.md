@@ -95,6 +95,10 @@ Minha jornada inclui:
 &nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
 
+### &#128214; Estou Aprendendo
+
+![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080 "Dart")
+
 ---
 
 <!-- Informações -->
