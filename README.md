@@ -155,7 +155,7 @@ Minha jornada inclui:
 
 ![Alternate Text](https://wakatime.com/share/@Devsgeeknerd/77d003db-f2b0-43ab-8038-56c1cb8ccdfd.svg)
 
-### Perfil
+### &#128100; Perfil
 
 ![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=repositories,stars&theme=darkmode)
 
