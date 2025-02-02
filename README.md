@@ -98,6 +98,8 @@ Minha jornada inclui:
 ### &#128214; Estou Aprendendo
 
 ![Dart](https://img.shields.io/badge/Dart-000fff.svg?style=p&logo=Dart&logoColor=ffffff&labelColor=800080 "Dart")
+&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080 "Flutter")
 
 ---
 
