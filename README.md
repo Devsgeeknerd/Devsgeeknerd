@@ -105,6 +105,20 @@ Minha jornada inclui:
 &nbsp;
 ![Api](https://img.shields.io/badge/RESTFul-Api-000fff.svg?style=p&logoColor=ffffff&labelColor=800080 "Api RESTFul")
 
+### &#128293; Tenho Interesse
+
+![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080 "Kotlin")
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-000fff.svg?style=p&logo=Swift&logoColor=ffffff&labelColor=800080 "Swift")
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000fff.svg?style=p&logo=JavaScript&logoColor=ffffff&labelColor=800080 "JavaScript")
+&nbsp;
+![React](https://img.shields.io/badge/React-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React")
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
+&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
+
 ---
 
 <!-- Informações -->
