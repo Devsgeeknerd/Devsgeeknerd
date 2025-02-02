@@ -141,6 +141,8 @@ Minha jornada inclui:
 
 ### &#11088; Top Linguagens
 
+![Top Langs](https://github-readme-stats-2244.vercel.app/api/top-langs/?username=Devsgeeknerd&langs_count=20&title_color=1E90FF&bg_color=FAFAFA&text_color=262626&card_width=300&custom_title=Top%20Linguagens&layout=pie "Top Linguagens")
+
 ### &#128197; Atividades
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devsgeeknerd&bg_color=FFFFFF&color=1E90FF&line=FFD700&point=FF4500&area=true&area_color=BC2A8D&custom_title=Gráfico%20de%20Atividades%20Diárias "Gráfico de Atividades")
