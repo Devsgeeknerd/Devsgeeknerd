@@ -102,6 +102,8 @@ Minha jornada inclui:
 ![Flutter](https://img.shields.io/badge/Flutter-000fff.svg?style=p&logo=Flutter&logoColor=ffffff&labelColor=800080 "Flutter")
 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080 "Figma")
+&nbsp;
+![Api](https://img.shields.io/badge/RESTFul-Api-000fff.svg?style=p&logoColor=ffffff&labelColor=800080 "Api RESTFul")
 
 ---
 
