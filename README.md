@@ -133,6 +133,22 @@ Minha jornada inclui:
 
 ---
 
+## &#128202; Estatísticas
+
+### &#128640; GitHub Stats
+
+### &#128165; Sequência de Contribuições
+
+### &#11088; Top Linguagens
+
+### &#128197; Atividades
+
+### &#9201; ![Wakatime](https://wakatime.com/badge/user/6e6b48c7-dff5-4c32-98d7-4031bd2a5457.svg?style=default "Wakatime")
+
+### Perfil
+
+---
+
 <!-- Informações -->
 ## &#8505; Informações
 
