@@ -2,7 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Introdução -->
-&#128075; Olá! Sou um **desenvolvedor Full Stack apaixonado** por tecnologia e inovação. Amo aprender coisas novas, resolver problemas complexos e automatizar processos para torná-los mais eficientes.
+&#128075; Olá! Sou um estudante de **Desenvolvimento Full Stack apaixonado** por tecnologia e inovação. Amo aprender coisas novas, resolver problemas complexos e automatizar processos para torná-los mais eficientes.
 
 ## &#127942; Sobre Mim
 
@@ -23,41 +23,41 @@ Minha jornada inclui:
 
 > &#10084;&#65039; "Resolva primeiro o problema e, em seguida, escreva o código!"
 
-> &#128295; "A programação é um exercício de paciência e criatividade."
+> &#128295; "A programação é um exercício de paciência e criatividade!"
 
-> &#129488; "Cada linha de código é uma peça do quebra-cabeça que forma a solução."
+> &#129488; "Cada linha de código é uma peça do quebra-cabeça que forma a solução!"
 
-> &#127775; "Não tenha medo de falhar; tenha medo de não tentar."
+> &#127775; "Não tenha medo de falhar; tenha medo de não tentar!"
 
-> &#128200; "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+> &#128200; "O sucesso é a soma de pequenos esforços repetidos dia após dia!"
 
-> &#128170; "A persistência é o caminho do êxito."
+> &#128170; "A persistência é o caminho do êxito!"
 
-> &#128373;&#8205;&#9794;&#65039; A curiosidade é a chave para a inovação."
+> &#128373;&#8205;&#65039; "A curiosidade é a chave para a inovação!"
 
-> &#128293; "Cada erro é uma oportunidade de aprender e crescer."
+> &#128293; "Cada erro é uma oportunidade de aprender e crescer!"
 
-> &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso."
+> &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso.
 
 ---
 
 <!-- Contatos -->
-## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como Me Encontrar
+## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como me Encontrar
 
-[![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:vanderley.1109+github@gmail.com "E-mail")
+[![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:devsgeeknerd@icloud.com "E-mail")
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/Devsgeeknerd "Telegram")
+[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/devsgeeknerd "Telegram")
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https://wa.me/ "WhatsApp em breve")
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Em breve!")
+[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Portfólio em breve")
 
 ---
 
-<!-- Redes sociais para engajamento -->
-## &#127760; Minhas Redes Sociais  
+<!-- Redes Sociais para engajamento -->
+## &#127760; Minhas Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn ")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn")
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000fff.svg?style=p&logo=Instagram&logoColor=ffffff&labelColor=800080)](https://instagram.com/devsgeeknerd "Instagram")
 &nbsp;
@@ -65,13 +65,13 @@ Minha jornada inclui:
 
 ---
 
-## &#128218; Cursos e Aprendizados
+## &#128218; Cursos & Aprendizados
 
-&#127891; Atualmente estudado e aprofundando conhecimento em:
+&#127891; Atualmente estudando e aprofundando conhecimentos em:
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#127959;&#65039;
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
-* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-bac-end) &#128679;
+* [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-back-end) &#128679;
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
 * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
@@ -89,11 +89,11 @@ Minha jornada inclui:
 
 ## &#128736;&#65039; Ferramentas e Tecnologias
 
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-000fff.svg?style=p&logo=Visual-Studio-Code&logoColor=ffffff&labelColor=800080 "Visual Studio Code")
+&nbsp;
 ![Git](https://img.shields.io/badge/Git-000fff.svg?style=p&logo=Git&logoColor=ffffff&labelColor=800080 "Git")
 &nbsp;
-![NPM](https://img.shields.io/badge/NPM-000fff.svg?style=p&logo=NPM&logoColor=ffffff&labelColor=800080 "NPM")
-&nbsp;
-![Yarn](https://img.shields.io/badge/Yarn-000fff.svg?style=p&logo=Yarn&logoColor=ffffff&labelColor=800080 "Yarn")
+![GitHub](https://img.shields.io/badge/GitHub-000fff.svg?style=p&logo=GitHub&logoColor=ffffff&labelColor=800080 "GitHub")
 
 ### &#128214; Estou Aprendendo
 
@@ -103,9 +103,9 @@ Minha jornada inclui:
 &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-000fff.svg?style=p&logo=Figma&logoColor=ffffff&labelColor=800080 "Figma")
 &nbsp;
-![Api](https://img.shields.io/badge/RESTFul-Api-000fff.svg?style=p&logoColor=ffffff&labelColor=800080 "Api RESTFul")
+![Api](https://img.shields.io/badge/RESTFul-Api-000fff.svg?style=p&logo=API&logoColor=ffffff&labelColor=800080 "API")
 
-### &#128293; Tenho Interesse
+### &#128293; Tenho Interesse em
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-000fff.svg?style=p&logo=Kotlin&logoColor=ffffff&labelColor=800080 "Kotlin")
 &nbsp;
@@ -117,7 +117,7 @@ Minha jornada inclui:
 &nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
 &nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
+![React-Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
 
 ---
 
@@ -129,11 +129,7 @@ Minha jornada inclui:
 
 ### Próprios
 
-* [ ] [Cheat Sheet.](https://github.com/Devsgeeknerd/pro-che-she-pro) &#127959;&#65039;
-
 ### Clones
-
----
 
 ## &#128202; Estatísticas
 
@@ -166,8 +162,6 @@ Minha jornada inclui:
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
-&nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/Devsgeeknerd?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
