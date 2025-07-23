@@ -69,21 +69,40 @@ Minha jornada inclui:
 
 &#127891; Atualmente estudando e aprofundando conhecimentos em:
 
+***Camadas Fundamentais:***
+
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#127959;&#65039;
+* [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128679;
+
+***Tecnologias Base:***
+
+* [ ] [Linguagens de Programação.](https://github.com/Devsgeeknerd/cat-lin-pro) &#128679;
+* [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
+
+***Desenvolvimento de Software:***
+
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
 * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-back-end) &#128679;
-* [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
-* [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
+* [ ] [No-code & Low-code.](https://github.com/Devsgeeknerd/cat-no-code) &#128679;
+
+***Especialidades Técnicas:***
+
 * [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128679;
 * [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128679;
 * [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128679;
+* [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128679;
+
+***Áreas Estratégicas:***
+
 * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128679;
 * [ ] [Inteligencia Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128679;
-* [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128679;
+* [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
+
+***Complementares:***
+
 * [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128679;
 * [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128679;
-* [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128679;
 
 ---
 
