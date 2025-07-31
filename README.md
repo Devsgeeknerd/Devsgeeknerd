@@ -14,7 +14,6 @@ Minha jornada inclui:
 
 &#128161; **Estou sempre em busca de novos desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
 
----
 
 <!-- Frases motivacionais -->
 ## &#128220; Citações Inspiradoras
@@ -39,7 +38,6 @@ Minha jornada inclui:
 
 > &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso.
 
----
 
 <!-- Contatos -->
 ## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como me Encontrar
@@ -52,10 +50,8 @@ Minha jornada inclui:
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Portfólio em breve")
 
----
-
 <!-- Redes Sociais para engajamento -->
-## &#127760; Minhas Redes Sociais
+### &#127760; Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000fff.svg?style=p&logo=LinkedIn&logoColor=ffffff&labelColor=800080)](https://www.linkedin.com/in/devsgeeknerd "LinkedIn")
 &nbsp;
@@ -63,48 +59,44 @@ Minha jornada inclui:
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-000fff.svg?style=p&logo=Facebook&logoColor=ffffff&labelColor=800080)](https://facebook.com/Devsgeeknerd "Facebook")
 
----
-
 ## &#128218; Cursos & Aprendizados
 
 &#127891; Atualmente estudando e aprofundando conhecimentos em:
 
-***Camadas Fundamentais:***
+### Camadas Fundamentais:
 
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/cat-fun) &#127959;&#65039;
 * [ ] [Desenvolvimento Pessoal.](https://github.com/Devsgeeknerd/cat-des-pes) &#128679;
 
-***Tecnologias Base:***
+### Tecnologias Base:
 
 * [ ] [Linguagens de Programação.](https://github.com/Devsgeeknerd/cat-lin-pro) &#128679;
 * [ ] [Bancos de Dados.](https://github.com/Devsgeeknerd/cat-ban-dad) &#128679;
 
-***Desenvolvimento de Software:***
+### Desenvolvimento de Software:
 
 * [ ] [Front-end.](https://github.com/Devsgeeknerd/cat-fro-end) &#128679;
 * [ ] [Back-end.](https://github.com/Devsgeeknerd/cat-back-end) &#128679;
 * [ ] [Mobile.](https://github.com/Devsgeeknerd/cat-mob) &#128679;
 * [ ] [No-code & Low-code.](https://github.com/Devsgeeknerd/cat-no-code) &#128679;
 
-***Especialidades Técnicas:***
+### Especialidades Técnicas:
 
 * [ ] [Cloud Computing.](https://github.com/Devsgeeknerd/cat-clo-com) &#128679;
 * [ ] [DevOps.](https://github.com/Devsgeeknerd/cat-dev-ops) &#128679;
 * [ ] [Segurança da Informação.](https://github.com/Devsgeeknerd/cat-seg-inf) &#128679;
 * [ ] [Internet das Coisas (IoT).](https://github.com/Devsgeeknerd/cat-iot) &#128679;
 
-***Áreas Estratégicas:***
+### Áreas Estratégicas:
 
 * [ ] [Data Science.](https://github.com/Devsgeeknerd/cat-dat-sci) &#128679;
 * [ ] [Inteligencia Artificial.](https://github.com/Devsgeeknerd/cat-int-art) &#128679;
 * [ ] [Designer de Interação.](https://github.com/Devsgeeknerd/cat-des-int) &#128679;
 
-***Complementares:***
+### Complementares:
 
 * [ ] [Freelance.](https://github.com/Devsgeeknerd/cat-fre) &#128679;
 * [ ] [Marketing.](https://github.com/Devsgeeknerd/cat-mar) &#128679;
-
----
 
 ## &#128736;&#65039; Ferramentas e Tecnologias
 
@@ -137,8 +129,6 @@ Minha jornada inclui:
 ![TypeScript](https://img.shields.io/badge/TypeScript-000fff.svg?style=p&logo=TypeScript&logoColor=ffffff&labelColor=800080 "TypeScript")
 &nbsp;
 ![React-Native](https://img.shields.io/badge/React%20Native-000fff.svg?style=p&logo=React&logoColor=ffffff&labelColor=800080 "React Native")
-
----
 
 ## &#128295; Projetos
 
@@ -176,10 +166,8 @@ Minha jornada inclui:
 
 ![Profile](https://github-widgetbox.vercel.app/api/profile?username=Devsgeeknerd&data=repositories,stars&theme=darkmode)
 
----
-
 <!-- Informações -->
-## &#8505; Informações
+### &#8505; Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
@@ -195,8 +183,6 @@ Minha jornada inclui:
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/Devsgeeknerd?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
 
----
-
-## &#128227; Obrigado por visitar meu perfil!
+### &#128227; Obrigado por visitar meu perfil!
 
 Se gostou, **deixe uma estrela** nos meus repositórios e me siga para acompanhar meu projetos! &#128515;&#128640;
