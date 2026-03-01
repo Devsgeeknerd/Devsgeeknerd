@@ -2,7 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Introdução -->
-&#128075; Olá! Sou um entusiasta de ***UI Design*** e ***Desenvolvimento Full Stack***. Minha paixão está em unir a lógica do código com a estetíca do design para criar experiências digitais que não apenas funcionam perfeitamente, mas também encantam os usuários. Gosto de resolver problemas e utomatizar tarefas, por isso estou mergulhando fundo inicialmente no universo do design de interfaces com **Figma**, **UI** e **Framer** para da vida a produtos mais intuitivos e bem cuidados.
+&#128075; Olá! Sou um entusiasta de ***UI Design*** e ***Desenvolvimento Full Stack***. Minha paixão está em unir a lógica do código com a estetíca do design para criar experiências digitais que não apenas funcionam perfeitamente, mas também encantam os usuários. Gosto de resolver problemas e automatizar tarefas, por isso estou mergulhando fundo inicialmente no universo do design de interfaces com **Figma**, **UI** e **Framer** para da vida a produtos mais intuitivos e bem cuidados.
 
 ## &#127942; Sobre Mim
 
@@ -31,6 +31,17 @@ Minha jornada inclui:
 > &#128373;&#8205;&#65039; "A curiosidade é a chave para a inovação!"
 
 > &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso.
+
+<!-- Contatos -->
+## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como me Encontrar
+
+[![Gmail](https://img.shields.io/badge/Gmail-000fff.svg?style=p&logo=Gmail&logoColor=ffffff&labelColor=800080)](mailto:devsgeeknerd@icloud.com "E-mail")
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-000fff.svg?style=p&logo=Telegram&logoColor=ffffff&labelColor=800080)](https://t.me/devsgeeknerd "Telegram")
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000fff.svg?style=p&logo=WhatsApp&logoColor=ffffff&labelColor=800080)](https://wa.me/ "WhatsApp em breve")
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-000fff.svg?style=p&logo=About.me&logoColor=ffffff&labelColor=800080)](https:// "Portfólio em breve")
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
