@@ -8,7 +8,12 @@
 
 Minha jornada inclui:
 
-
+* **Desenvolvimento de Software e Aplicações** — Criando soluções inovadoras e funcionais.
+* **Desenvolvimento Web** — Construindo sites e aplicações web modernas e responsivas.
+* **Desenvolvimento Mobile** — Criando aplicativos para dispositivos móveis Android e iOS.
+* **UI/Design de Interfaces** — Transformando ideias em protótipos funcionais e atraentes com **Figma**.
+* **Framer** — Explorando o poder do framer para criar sites e protótipos interativos de alta fidelidade.
+* **Networking** — Conectando-se com pessoas incríveis e trocando conhecimentos do mundo tech.
 
 &#128161; **Estou sempre em busca de novos conhecimentos e desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
 
