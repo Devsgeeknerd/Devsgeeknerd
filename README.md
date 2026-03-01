@@ -15,7 +15,22 @@ Minha jornada inclui:
 * **Framer** — Explorando o poder do framer para criar sites e protótipos interativos de alta fidelidade.
 * **Networking** — Conectando-se com pessoas incríveis e trocando conhecimentos do mundo tech.
 
+<!-- Frases motivacionais -->
+## &#128220; Citações Inspiradoras
+
+> &#129504; "Pense duas vezes e codifique uma!"
+
+> &#10084;&#65039; "Resolva primeiro o problema e, em seguida, escreva o código!"
+
+> &#128295; "A programação é um exercício de paciência e criatividade!"
+
+> &#128200; "O sucesso é a soma de pequenos esforços repetidos dia após dia!"
+
 &#128161; **Estou sempre em busca de novos conhecimentos e desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
+
+> &#128373;&#8205;&#65039; "A curiosidade é a chave para a inovação!"
+
+> &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2FDevsgeeknerd&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
