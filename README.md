@@ -26,11 +26,11 @@ Minha jornada inclui:
 
 > &#128200; "O sucesso é a soma de pequenos esforços repetidos dia após dia!"
 
-&#128161; **Estou sempre em busca de novos conhecimentos e desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
-
 > &#128373;&#8205;&#65039; "A curiosidade é a chave para a inovação!"
 
 > &#127793; "O aprendizado nunca é um desperdício; cada conhecimento é um passo em direção ao sucesso.
+
+&#128161; **Estou sempre em busca de novos conhecimentos e desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
 
 <!-- Contatos -->
 ## <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30" alt="Contatos"> Como me Encontrar
