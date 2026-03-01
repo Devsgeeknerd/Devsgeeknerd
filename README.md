@@ -8,10 +8,7 @@
 
 Minha jornada inclui:
 
-* &#128187; **Desenvolvimento de Software e Aplicações** — Criando soluções inovadoras e funcionais.
-* &#127757; **Desenvolvimento Web** — Construindo sites e aplicações web modernas e responsivas.
-* &#127757; **Desenvolvimento Mobile** — Criando aplicativos para dispositivos móveis Android e iOS.
-* &#129309; **Networking** — Conectando-se com pessoas incríveis e trocando conhecimentos do mundo tech.
+
 
 &#128161; **Estou sempre em busca de novos conhecimentos e desafios!** Se você também compartilha essa mesma paixão por tecnologia, vamos nos conectar! &#128640;
 
