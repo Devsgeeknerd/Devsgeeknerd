@@ -2,7 +2,7 @@
 # &#128522; Sejam muito bem vindos &#128075;
 
 <!-- Introdução -->
-&#128075; Olá! Sou um entusiasta de UI Design e Desenvolvimento Full Stack. Minha paixão está em unir a lógica do código com a estetíca do design para criar experiências digitais que não apenas funcionam perfeitamente, mas também encantam os usuários. Gosto de resolver problemas e utomatizar tarefas, por isso estou mergulhando fundo inicialmente no universo do design de interfaces com **Figma**, **UI** e **Framer** para da vida a produtos mais intuitivos e bem cuidados.
+&#128075; Olá! Sou um entusiasta de ***UI Design*** e ***Desenvolvimento Full Stack***. Minha paixão está em unir a lógica do código com a estetíca do design para criar experiências digitais que não apenas funcionam perfeitamente, mas também encantam os usuários. Gosto de resolver problemas e utomatizar tarefas, por isso estou mergulhando fundo inicialmente no universo do design de interfaces com **Figma**, **UI** e **Framer** para da vida a produtos mais intuitivos e bem cuidados.
 
 ## &#127942; Sobre Mim
 
